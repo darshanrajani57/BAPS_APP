@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Session Attendance Report</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background-color: #f5f7fa;
+      padding: 20px;
+      color: #333;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      background-color: white;
+      padding: 40px;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+    .header {
+      margin-bottom: 30px;
+      border-bottom: 2px solid #e5e7eb;
+      padding-bottom: 20px;
+    }
+    .header h1 {
+      font-size: 28px;
+      font-weight: 600;
+      color: #1f2937;
+      margin-bottom: 12px;
+    }
+    .session-info {
+      display: flex;
+      gap: 20px;
+      font-size: 14px;
+      color: #6b7280;
+    }
+    .session-info span {
+      display: flex;
+      gap: 6px;
+    }
+    .session-info strong {
+      color: #1f2937;
+    }
+    .section {
+      margin-bottom: 32px;
+    }
+    .section-title {
+      font-size: 16px;
+      font-weight: 600;
+      color: #1f2937;
+      margin-bottom: 12px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid #e5e7eb;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 12px;
+    }
+    th {
+      background-color: #f3f4f6;
+      padding: 12px;
+      text-align: left;
+      font-weight: 600;
+      font-size: 13px;
+      color: #374151;
+      border: 1px solid #e5e7eb;
+    }
+    td {
+      padding: 10px 12px;
+      font-size: 13px;
+      color: #4b5563;
+      border: 1px solid #e5e7eb;
+    }
+    tr:nth-child(even) {
+      background-color: #fafbfc;
+    }
+    tr:hover {
+      background-color: #f9fafb;
+    }
+    .status-present {
+      color: #059669;
+      font-weight: 500;
+    }
+    .status-absent {
+      color: #dc2626;
+      font-weight: 500;
+    }
+    .summary-row {
+      font-weight: 600;
+      background-color: #f0f9ff !important;
+    }
+    .text-center {
+      text-align: center;
+    }
+    .text-right {
+      text-align: right;
+    }
+    .footer {
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid #e5e7eb;
+      font-size: 11px;
+      color: #9ca3af;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Session Attendance Report</h1>
+      <div class="session-info">
+        <span><strong>Date:</strong> {{ session.date }}</span>
+        <span><strong>Time:</strong> {{ session.start_time }}{% if session.end_time %} - {{ session.end_time }}{% endif %}</span>
+        <span><strong>Status:</strong> {{ session.status }}</span>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Role-wise Summary</div>
+      <table>
+        <thead>
+          <tr>
+            <th>Role</th>
+            <th class="text-right">Present</th>
+            <th class="text-right">Absent</th>
+            <th class="text-right">Total</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% set total_present = 0 %}
+          {% set total_absent = 0 %}
+          {% for role, data in role_summary.items() %}
+            {% set total_present = total_present + data["Present"] %}
+            {% set total_absent = total_absent + data["Absent"] %}
+            <tr>
+              <td>{{ role }}</td>
+              <td class="text-right">{{ data["Present"] }}</td>
+              <td class="text-right">{{ data["Absent"] }}</td>
+              <td class="text-right">{{ data["Present"] + data["Absent"] }}</td>
+            </tr>
+          {% endfor %}
+          <tr class="summary-row">
+            <td><strong>TOTAL</strong></td>
+            <td class="text-right"><strong>{{ total_present }}</strong></td>
+            <td class="text-right"><strong>{{ total_absent }}</strong></td>
+            <td class="text-right"><strong>{{ total_present + total_absent }}</strong></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="section">
+      <div class="section-title">Member Attendance</div>
+      <table>
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Role</th>
+            <th class="text-center">Status</th>
+            <th class="text-center">Arrival Time</th>
+            <th>Member Timing</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for m in report %}
+            <tr>
+              <td>{{ m.name }}</td>
+              <td>{{ m.role }}</td>
+              <td class="text-center {% if m.status == 'Present' %}status-present{% else %}status-absent{% endif %}">
+                {{ m.status }}
+              </td>
+              <td class="text-center">{{ m.arrival_time if m.arrival_time else '—' }}</td>
+              <td>{{ m.member_timing if m.member_timing else '—' }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    <div class="footer">
+      <p>Generated on {{ generated_at }} | BAPS Attendance System</p>
+    </div>
+  </div>
+</body>
+</html>

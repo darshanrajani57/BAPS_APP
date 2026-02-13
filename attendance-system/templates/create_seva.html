@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2>Create New Seva</h2>
+
+<form method="POST" style="max-width:600px;">
+
+  <label><b>Seva Name:</b></label><br>
+  <input type="text" name="seva_name" required style="width:100%; padding:8px; margin-bottom:15px; border:1px solid #ccc; border-radius:4px;">
+
+  <br><br>
+
+  <label><b>Seva Type:</b></label><br>
+  <input type="text" name="seva_type" placeholder="e.g., Kitchen, Cleaning, Teaching, etc." style="width:100%; padding:8px; margin-bottom:15px; border:1px solid #ccc; border-radius:4px;">
+
+  <br><br>
+
+  <label><b>Allocate Members:</b></label><br>
+  <div style="border:1px solid #ccc; padding:10px; border-radius:4px; max-height:300px; overflow-y:auto; margin-bottom:15px;">
+    {% for name, member in members.items() %}
+      <label style="display:block; padding:5px; cursor:pointer;">
+        <input type="checkbox" name="members" value="{{ name }}">
+        {{ name }} <small style="color:#666;">({{ member.get('Type','') }})</small>
+      </label>
+    {% endfor %}
+  </div>
+
+  <br>
+
+  <button type="submit" style="background:#4285F4; color:white; padding:10px 20px; border:none; border-radius:4px; cursor:pointer; font-size:16px;">
+    Create Seva
+  </button>
+
+  <a href="/seva" style="margin-left:10px; padding:10px 20px; text-decoration:none; color:#666; border:1px solid #ccc; border-radius:4px; display:inline-block;">
+    Cancel
+  </a>
+
+</form>
+
+{% endblock %}

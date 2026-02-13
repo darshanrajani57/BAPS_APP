@@ -1,0 +1,27 @@
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Time</th>
+    <th>Status</th>
+    <th>Actions</th>
+  </tr>
+
+  {% for s in sessions %}
+  <tr>
+    <td>{{ s.date }}</td>
+    <td>{{ s.start_time }} - {{ s.end_time }}</td>
+    <td>{{ s.status }}</td>
+
+    <td>
+      <a href="/sessions/{{ s.id }}">View</a> |
+      <a href="/reports/session/{{ s.id }}">Report</a> |
+
+      {% if s.status == "ENDED" %}
+        <a href="/reports/session/{{ s.id }}/pdf">PDF</a>
+      {% else %}
+        <span style="color:#999;">PDF</span>
+      {% endif %}
+    </td>
+  </tr>
+  {% endfor %}
+</table>

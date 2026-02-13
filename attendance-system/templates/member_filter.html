@@ -1,0 +1,23 @@
+{# Reusable member filter component #}
+{# Usage: {% include 'member_filter.html' with context %} #}
+
+<form method="GET" style="margin-bottom:12px; display:flex; gap:8px; align-items:center; flex-wrap: wrap;">
+  <input type="text" name="q" placeholder="Search members..." value="{{ query or '' }}" style="padding:6px; min-width:220px;" />
+
+  <label style="font-weight:600;">Filter:</label>
+  <select name="role">
+    <option value="">All Roles</option>
+    {% for r in roles %}
+      <option value="{{ r }}" {% if r == selected_role %}selected{% endif %}>{{ r }}</option>
+    {% endfor %}
+  </select>
+
+  <label style="font-weight:600;">Sort:</label>
+  <select name="sort">
+    <option value="">Default</option>
+    <option value="alpha_asc" {% if selected_sort == 'alpha_asc' %}selected{% endif %}>Name A → Z</option>
+    <option value="alpha_desc" {% if selected_sort == 'alpha_desc' %}selected{% endif %}>Name Z → A</option>
+  </select>
+
+  <button type="submit">Apply</button>
+</form>

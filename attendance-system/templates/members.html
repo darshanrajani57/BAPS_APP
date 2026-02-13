@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h2>Members Directory</h2>
+
+<p style="color:#555;">
+Click on any member to view or manage details.
+</p>
+
+{% include 'member_filter.html' %}
+
+<div class="member-container">
+
+  {% for m in members %}
+  <div class="member-card">
+
+    <div class="member-name">
+      <a href="{{ url_for('member_detail', name=m['Yuvak Name']) }}">
+        {{ m["Yuvak Name"] }}
+      </a>
+    </div>
+
+    <div class="member-meta">
+      <span class="badge type-{{ m['Type']|lower|replace(' ', '-') }}">
+        {{ m["Type"] }}
+      </span>
+
+      {% if m.get("Category") %}
+        <span class="badge category">
+          Category {{ m["Category"] }}
+        </span>
+      {% endif %}
+    </div>
+
+    {% set role_lower = (m['Type']|lower) %}
+    {% if role_lower in ['sampark karyakar', 'karyakar', 'sanchalak', 'sampark', 'sanchalak'] %}
+      {% set assigned = assigned_map.get(m['Yuvak Name'], []) %}
+        <div style="margin-top:8px;">
+          <span class="badge assigned-count" style="background:#eef7ff; color:#1b6; padding:4px 8px; border-radius:12px;">
+            Assigned: {{ assigned|length }}
+          </span>
+        </div>
+    {% endif %}
+
+  </div>
+  {% endfor %}
+
+</div>
+
+<a class="back-link" href="{{ url_for('dashboard') }}">← Back to Dashboard</a>
+
+{% endblock %}

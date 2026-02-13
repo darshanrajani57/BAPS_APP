@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h2>Yuvak Details</h2>
+
+<p><b>Name:</b> {{ yuvak["Yuvak Name"] }}</p>
+<p><b>Category:</b> {{ yuvak["Category"] }}</p>
+<p><b>Address:</b> {{ yuvak["Yuvak Address"] }}</p>
+
+<hr>
+
+<h3>Assigned Sampark Karyakar</h3>
+{% if assigned %}
+<p>{{ assigned["sampark"] }}</p>
+{% else %}
+<p><i>Not assigned yet</i></p>
+{% endif %}
+
+<hr>
+
+<h3>Suggested Sampark Karyakar</h3>
+
+<form method="POST">
+{% for s in suggestions %}
+    <input type="radio" name="sampark" value="{{ s.name }}" required>
+    {{ s.name }} ({{ s.type }}) – Score {{ s.score }}<br>
+{% endfor %}
+<br>
+<button type="submit">Assign Sampark</button>
+</form>
+
+<br>
+<a href="/members">← Back to Members</a>
+
+{% endblock %}

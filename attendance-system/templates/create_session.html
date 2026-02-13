@@ -1,0 +1,73 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h2>Create New Sabha</h2>
+
+<p style="color:#555;">
+Use this form to create a new sabha. (Date and time cannot be in the past)
+</p>
+
+<form method="POST" class="session-form" onsubmit="return validateForm()">
+
+  <label>Sabha Date</label><br>
+  <input type="date" id="dateInput" name="date" required><br><br>
+
+  <label>Starting Time of Sabha</label><br>
+  <input type="time" id="startTimeInput" name="start_time" required><br><br>
+
+  <label>Ending Time of Sabha</label><br>
+  <input type="time" id="endTimeInput" name="end_time" required><br><br>
+
+  <button type="submit">Create Sabha</button>
+
+</form>
+
+<br>
+<a href="/">← Back to Dashboard</a>
+
+<script>
+function validateForm() {
+  const dateInput = document.getElementById('dateInput').value;
+  const startTimeInput = document.getElementById('startTimeInput').value;
+  const endTimeInput = document.getElementById('endTimeInput').value;
+  
+  if(!dateInput || !startTimeInput || !endTimeInput) {
+    alert('Please fill all fields');
+    return false;
+  }
+  
+  const now = new Date();
+  const today = now.toISOString().split('T')[0];
+  const currentTime = String(now.getHours()).padStart(2, '0') + ':' + String(now.getMinutes()).padStart(2, '0');
+  
+  // Check if date is in the past
+  if(dateInput < today) {
+    alert('Cannot create session for past dates');
+    return false;
+  }
+  
+  // Check if time is in the past for today
+  if(dateInput === today && startTimeInput < currentTime) {
+    alert('Cannot create session for past times. Current time: ' + currentTime);
+    return false;
+  }
+  
+  // Check if end time is before start time
+  if(endTimeInput < startTimeInput) {
+    alert('Ending time must be after starting time');
+    return false;
+  }
+  
+  return true;
+}
+
+// Set minimum date to today
+document.addEventListener('DOMContentLoaded', function() {
+  const dateInput = document.getElementById('dateInput');
+  const now = new Date();
+  const today = now.toISOString().split('T')[0];
+  dateInput.min = today;
+});
+</script>
+
+{% endblock %}

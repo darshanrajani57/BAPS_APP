@@ -1,0 +1,217 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h2>Sabha Attendance</h2>
+
+<button id="birthday-btn" title="Upcoming birthdays" style="border:1px solid #ccc; background:#fff; cursor:pointer; font-size:24px; padding:5px 10px; border-radius:4px;">
+  🎂
+</button>
+
+<div id="birthday-popup" style="display:none; position:fixed; top:100px; left:50px; background:#fff; border:2px solid #ddd; padding:15px; min-width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.2); z-index:9999; border-radius:4px;">
+  <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px;">
+    <strong>📅 Upcoming Birthdays</strong>
+    <button id="birthday-close" type="button" style="border:none; background:none; font-size:18px; cursor:pointer;">✕</button>
+  </div>
+  <div id="birthday-list" style="margin-top:8px; max-height:240px; overflow:auto; font-size:14px; color:#222;"></div>
+</div>
+
+<p>
+<b>Sabha Date:</b> {{ session.date }} |
+<b>Time:</b> {{ session.start_time }} - {{ session.end_time }} |
+<b>Status:</b> {{ session.status }}
+</p>
+
+{% include 'member_filter.html' %}
+
+<form method="POST" {% if session.status == "ENDED" %}onsubmit="return false;"{% endif %}>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Name</th>
+    <th>Role</th>
+    <th>Present</th>
+    <th>Sampark Karyakar</th>
+    <th>Arrival Time</th>
+  </tr>
+
+  {% for name, m in members.items() %}
+  <tr>
+    <td>{{ name }}</td>
+    <td>{{ m["Type"] }}</td>
+    <td>
+      <label style="display:flex; align-items:center; gap:8px;">
+        {% set att_data = session["attendance"].get(name, {}) %}
+        {% set is_present = (att_data == "Present") or (att_data.get("status") == "Present" if att_data is mapping else False) %}
+        <input class="att-checkbox" type="checkbox" name="{{ name }}" value="Present"
+          {% if is_present %}checked{% endif %}
+          {% if session.status == "ENDED" %}disabled{% endif %}>
+      </label>
+
+      <span class="prev-dot" data-name="{{ name }}" title="Present in last sabha"
+            style="display: {% if is_present and prev_present.get(name) %}inline-block{% else %}none{% endif %}; width:10px; height:10px; margin-left:8px; background:#d93025; border-radius:50%; vertical-align:middle;"></span>
+    </td>
+    <td>
+      {% if m["Type"]|lower == "yuvak" %}
+        {% set sampark = assignments.get(name, {}).get("sampark") %}
+        {{ sampark if sampark else "-" }}
+      {% else %}
+        -
+      {% endif %}
+    </td>
+    <td>
+      {% set att_time = "" %}
+      {% if att_data is mapping and att_data.get("time") %}
+        {% set att_time = att_data.get("time") %}
+      {% endif %}
+      <input class="time-input" type="time" name="{{ name }}_time" 
+        {% if att_time %}value="{{ att_time }}"{% endif %}
+        {% if session.status == "ENDED" %}disabled{% endif %}
+        style="width:100px;">
+    </td>
+  </tr>
+  {% endfor %}
+</table>
+
+<br>
+{% if session.status == "ACTIVE" %}
+  <button type="submit">Save Attendance</button>
+{% else %}
+  <button type="submit" disabled style="opacity:0.5; cursor:not-allowed;">Save Attendance (View Only)</button>
+{% endif %}
+
+</form>
+
+<br>
+{% if session.status == "ACTIVE" %}
+<form method="POST" action="/sessions/{{ session_id }}/end"
+      onsubmit="return confirm('End this session? Attendance will be locked.')">
+    <button style="background:#d93025;color:white;padding:10px;border:none;">
+        End Session
+    </button>
+</form>
+{% endif %}
+
+{% if session.status == "ENDED" %}
+<br>
+<p style="color:#4285F4;"><b>Session Ended - You can still edit attendance above</b></p>
+<a href="/reports/session/{{ session_id }}">
+    📊 View Session Report
+</a>
+<br>
+<a href="/reports/session/{{ session_id }}/pdf">
+    ⬇ Download Session PDF
+</a>
+{% endif %}
+
+<br>
+<a href="/">← Back to Dashboard</a>
+
+<script>
+// Birthday functionality
+var birthdayBtn = document.getElementById('birthday-btn');
+var birthdayPopup = document.getElementById('birthday-popup');
+var birthdayList = document.getElementById('birthday-list');
+var birthdayClose = document.getElementById('birthday-close');
+
+console.log('Birthday button found:', birthdayBtn);
+
+if(birthdayBtn) {
+  birthdayBtn.onclick = function(e) {
+    console.log('Birthday button clicked!');
+    e.preventDefault();
+    e.stopPropagation();
+    
+    var dateVal = '{{ session.date }}';
+    console.log('Fetching birthdays for date:', dateVal);
+    
+    fetch('/api/upcoming_birthdays?date=' + dateVal)
+      .then(function(res) {
+        console.log('API response:', res.status);
+        if(!res.ok) throw new Error('HTTP ' + res.status);
+        return res.json();
+      })
+      .then(function(data) {
+        console.log('Birthday data:', data);
+        birthdayList.innerHTML = '';
+        
+        if(!data || data.length === 0) {
+          birthdayList.innerHTML = '<div style="padding:10px;">🎂 No birthdays in next 7 days.</div>';
+        } else {
+          data.forEach(function(person) {
+            var div = document.createElement('div');
+            div.style.padding = '8px';
+            div.style.borderBottom = '1px solid #eee';
+            div.textContent = person.name + ' — ' + person.birthday;
+            birthdayList.appendChild(div);
+          });
+        }
+        birthdayPopup.style.display = 'block';
+      })
+      .catch(function(err) {
+        console.error('Error:', err);
+        birthdayList.innerHTML = '<div style="padding:10px; color:#c00;">Failed to load birthdays</div>';
+        birthdayPopup.style.display = 'block';
+      });
+  };
+}
+
+if(birthdayClose) {
+  birthdayClose.onclick = function(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    birthdayPopup.style.display = 'none';
+  };
+}
+
+// Close popup when clicking outside
+document.addEventListener('click', function(e) {
+  if(birthdayPopup && birthdayPopup.style.display === 'block' && 
+     e.target !== birthdayBtn && 
+     !birthdayPopup.contains(e.target)) {
+    birthdayPopup.style.display = 'none';
+  }
+});
+
+// Attendance dot functionality
+document.addEventListener('DOMContentLoaded', function(){
+  const prevPresent = {{ prev_present|tojson }};
+  const checkboxes = document.querySelectorAll('.att-checkbox');
+
+  function updateDotFor(name, checkbox){
+    const dot = document.querySelector(`.prev-dot[data-name="${CSS.escape(name)}"]`);
+    if(!dot) return;
+    if(checkbox.checked && prevPresent[name]){
+      dot.style.display = 'inline-block';
+    } else {
+      dot.style.display = 'none';
+    }
+  }
+
+  checkboxes.forEach(cb => {
+    const name = cb.getAttribute('name');
+    updateDotFor(name, cb);
+    cb.addEventListener('change', function(){
+      updateDotFor(name, cb);
+      
+      // Auto-set current system time when checkbox is checked
+      if(this.checked) {
+        // Get current system time in HH:MM format
+        const now = new Date();
+        const hours = String(now.getHours()).padStart(2, '0');
+        const minutes = String(now.getMinutes()).padStart(2, '0');
+        const currentTime = `${hours}:${minutes}`;
+        
+        // Set the time input field
+        const timeInput = document.querySelector(`input.time-input[name="${CSS.escape(name)}_time"]`);
+        if(timeInput && !timeInput.value) {
+          timeInput.value = currentTime;
+        }
+      }
+    });
+  });
+});
+  });
+});
+</script>
+
+{% endblock %}

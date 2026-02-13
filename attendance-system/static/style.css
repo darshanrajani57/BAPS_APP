@@ -1,0 +1,121 @@
+/* -------- Members Page -------- */
+
+.member-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.member-card {
+    background: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 14px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.member-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.08);
+}
+
+.member-name a {
+    font-size: 16px;
+    font-weight: 600;
+    color: #1a73e8;
+    text-decoration: none;
+}
+
+.member-name a:hover {
+    text-decoration: underline;
+}
+
+.member-meta {
+    margin-top: 8px;
+}
+
+.badge {
+    display: inline-block;
+    padding: 4px 10px;
+    border-radius: 12px;
+    font-size: 12px;
+    margin-right: 6px;
+}
+
+/* Role colors */
+.type-yuvak {
+    background-color: #e3f2fd;
+    color: #1565c0;
+}
+
+.type-sampark-karyakar {
+    background-color: #e8f5e9;
+    color: #2e7d32;
+}
+
+.type-karyakar {
+    background-color: #fff3e0;
+    color: #ef6c00;
+}
+
+.type-sanchalak {
+    background-color: #fce4ec;
+    color: #ad1457;
+}
+
+.category {
+    background-color: #f1f3f4;
+    color: #444;
+}
+
+.back-link {
+    display: inline-block;
+    margin-top: 25px;
+    text-decoration: none;
+    color: #444;
+}
+/* -------- Session Form -------- */
+
+.session-form {
+    max-width: 400px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+}
+
+.session-form label {
+    font-weight: 600;
+}
+
+.session-form input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 4px;
+}
+
+.session-form button {
+    margin-top: 15px;
+    padding: 10px;
+    width: 100%;
+    background-color: #1a73e8;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.session-form button:hover {
+    background-color: #155ab6;
+}
+table {
+    width: 100%;
+    background: #fff;
+    border-collapse: collapse;
+}
+
+th {
+    background: #f1f3f4;
+}

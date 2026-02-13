@@ -1,0 +1,4758 @@
+{
+  "45302df0-fcea-4c01-812a-824673a78004": {
+    "date": "2026-01-19",
+    "start_time": "10:00",
+    "end_time": "11:40",
+    "created_at": "2026-01-19T11:38:09.395514",
+    "processed": true,
+    "attendance": {},
+    "id": "45302df0-fcea-4c01-812a-824673a78004"
+  },
+  "5df1a9a7-2fc0-4196-abf0-d06e212acb7c": {
+    "date": "2026-01-19",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "status": "ENDED",
+    "attendance": {},
+    "id": "5df1a9a7-2fc0-4196-abf0-d06e212acb7c"
+  },
+  "6dd4df75-4848-482c-b999-d071ae47d03a": {
+    "date": "2026-01-19",
+    "start_time": "16:00",
+    "end_time": "17:00",
+    "status": "ENDED",
+    "attendance": {},
+    "id": "6dd4df75-4848-482c-b999-d071ae47d03a"
+  },
+  "8a56115c-3e42-441e-b10a-6f15a9d2f69b": {
+    "date": "2026-01-19",
+    "start_time": "17:00",
+    "end_time": "17:40",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": "Present",
+      "Jay Mansukhbhai Goti": "Present",
+      "Vishalbhai Babhubhai Rajani": "Present",
+      "Jaimin Rajnikant Patel": "Present",
+      "Jainish Vipulbhai Chodavadiya": "Present",
+      "Ronit Rajendrakumar Dabgar": "Present",
+      "Rajatabhai Mahendrabhai Sawaliya": "Present"
+    },
+    "id": "8a56115c-3e42-441e-b10a-6f15a9d2f69b"
+  },
+  "ca0b3af7-78c1-4ee7-a17b-5b216e05ef32": {
+    "date": "2026-01-19",
+    "start_time": "17:36",
+    "end_time": "17:38",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": "Present",
+      "Jaimin Jayntibhai Patel": "Absent",
+      "Jay Mansukhbhai Goti": "Present",
+      "Vasu Sanjaybhai Patel": "Absent"
+    },
+    "id": "ca0b3af7-78c1-4ee7-a17b-5b216e05ef32"
+  },
+  "c166e88b-879b-4cbb-871d-f9a06f555726": {
+    "date": "2026-01-19",
+    "start_time": "17:55",
+    "end_time": "18:05",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": "Present",
+      "Jaimin Jayntibhai Patel": "Absent",
+      "Jay Mansukhbhai Goti": "Absent",
+      "Vasu Sanjaybhai Patel": "Present",
+      "Vishalbhai Babhubhai Rajani": "Absent"
+    },
+    "id": "c166e88b-879b-4cbb-871d-f9a06f555726"
+  },
+  "a8b715fb-7e7c-4bd9-9282-d12c0773d720": {
+    "date": "2026-01-19",
+    "start_time": "18:16",
+    "end_time": "18:25",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": "Present",
+      "Jay Mansukhbhai Goti": "Present",
+      "Vasu Sanjaybhai Patel": "Present",
+      "Darshan Ashokbhai Rajani": "Absent",
+      "Jaimin Rajnikant Patel": "Absent"
+    },
+    "id": "a8b715fb-7e7c-4bd9-9282-d12c0773d720"
+  },
+  "0dc864cf-71d8-4669-aac1-eda03853e2b3": {
+    "date": "2026-01-19",
+    "start_time": "18:35",
+    "end_time": "18:39",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": "Absent",
+      "Jaimin Jayntibhai Patel": "Absent",
+      "Jay Mansukhbhai Goti": "Absent",
+      "Vasu Sanjaybhai Patel": "Absent",
+      "Vishalbhai Babhubhai Rajani": "Absent",
+      "Darshan Ashokbhai Rajani": "Present",
+      "Jaimin Rajnikant Patel": "Absent",
+      "Meet Vipulbhai Prajapati": "Present"
+    },
+    "id": "0dc864cf-71d8-4669-aac1-eda03853e2b3"
+  },
+  "11137b31-2e76-4758-bbcc-8489566fb22e": {
+    "date": "2026-01-19",
+    "start_time": "18:46",
+    "end_time": "18:50",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": "Absent",
+      "Jaimin Jayntibhai Patel": "Present",
+      "Jay Mansukhbhai Goti": "Absent",
+      "Vasu Sanjaybhai Patel": "Present",
+      "Darshan Ashokbhai Rajani": "Present",
+      "Jaimin Rajnikant Patel": "Absent",
+      "Khushal Jagadishbhai Vala": "Absent",
+      "Meet Vipulbhai Prajapati": "Absent"
+    },
+    "id": "11137b31-2e76-4758-bbcc-8489566fb22e"
+  },
+  "575602df-dab5-4b4f-b964-326fff0dfd3e": {
+    "date": "2026-01-19",
+    "start_time": "18:51",
+    "end_time": "18:52",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": "Present",
+      "Jaimin Jayntibhai Patel": "Absent",
+      "Jay Mansukhbhai Goti": "Absent",
+      "Vasu Sanjaybhai Patel": "Absent",
+      "Darshan Ashokbhai Rajani": "Present",
+      "Jaimin Rajnikant Patel": "Absent",
+      "Khushal Jagadishbhai Vala": "Present"
+    },
+    "id": "575602df-dab5-4b4f-b964-326fff0dfd3e"
+  },
+  "36d80acc-a933-4313-8481-46a3556bbf0a": {
+    "date": "2026-01-19",
+    "start_time": "18:55",
+    "end_time": "18:57",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": "Absent",
+      "Jaimin Jayntibhai Patel": "Present",
+      "Jay Mansukhbhai Goti": "Absent",
+      "Vasu Sanjaybhai Patel": "Present",
+      "Vishalbhai Babhubhai Rajani": "Absent",
+      "Darshan Ashokbhai Rajani": "Present",
+      "Jaimin Rajnikant Patel": "Absent"
+    },
+    "id": "36d80acc-a933-4313-8481-46a3556bbf0a"
+  },
+  "eae9110c-2982-44e5-b020-54dbb211d902": {
+    "date": "2026-01-19",
+    "start_time": "19:19",
+    "end_time": "19:21",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": "Absent",
+      "Jaimin Jayntibhai Patel": "Absent",
+      "Jay Mansukhbhai Goti": "Absent",
+      "Vasu Sanjaybhai Patel": "Absent",
+      "Darshan Ashokbhai Rajani": "Present",
+      "Jaimin Rajnikant Patel": "Present",
+      "Khushal Jagadishbhai Vala": "Absent",
+      "Meet Vipulbhai Prajapati": "Absent",
+      "Jainish Vipulbhai Chodavadiya": "Absent",
+      "Jaydip Dipakbhai Prajapati": "Present"
+    },
+    "id": "eae9110c-2982-44e5-b020-54dbb211d902"
+  },
+  "2bf8f7be-6cbb-4bca-8632-9cbce0b1b9c3": {
+    "date": "2026-01-20",
+    "start_time": "11:41",
+    "end_time": "11:45",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": "Present",
+      "Jay Mansukhbhai Goti": "Present",
+      "Vasu Sanjaybhai Patel": "Absent",
+      "Vishalbhai Babhubhai Rajani": "Absent",
+      "Darshan Ashokbhai Rajani": "Present",
+      "Jaimin Rajnikant Patel": "Absent",
+      "Khushal Jagadishbhai Vala": "Absent"
+    },
+    "id": "2bf8f7be-6cbb-4bca-8632-9cbce0b1b9c3"
+  },
+  "612fbcbd-d6da-4df8-9b38-c3e51bc3be98": {
+    "date": "2026-01-20",
+    "start_time": "11:50",
+    "end_time": "11:52",
+    "status": "ENDED",
+    "attendance": {
+      "Mehul Arvindbhai Barot": "Present",
+      "Tejash Ashvinbhai Solanki": "Absent"
+    },
+    "id": "612fbcbd-d6da-4df8-9b38-c3e51bc3be98"
+  },
+  "dfc6a86e-3932-43ec-bd29-f78a7624ce3e": {
+    "date": "2026-01-20",
+    "start_time": "12:51",
+    "end_time": "12:53",
+    "status": "ENDED",
+    "attendance": {
+      "Tejash Ashvinbhai Solanki": "Present",
+      "Sankalp Samitkumar Patel": "Absent"
+    },
+    "id": "dfc6a86e-3932-43ec-bd29-f78a7624ce3e"
+  },
+  "dc977098-c155-49ad-a5e5-3075cf6ed385": {
+    "date": "2026-01-20",
+    "start_time": "13:46",
+    "end_time": "13:48",
+    "status": "ENDED",
+    "attendance": {
+      "Vishalbhai Babhubhai Rajani": "Present",
+      "Khushal Jagadishbhai Vala": "Absent"
+    },
+    "id": "dc977098-c155-49ad-a5e5-3075cf6ed385"
+  },
+  "d147aca7-9fad-4e8d-8192-7c602c87687b": {
+    "date": "2026-01-21",
+    "start_time": "22:15",
+    "end_time": "22:17",
+    "status": "ENDED",
+    "attendance": {},
+    "id": "d147aca7-9fad-4e8d-8192-7c602c87687b"
+  },
+  "4796296f-fe0e-4244-af48-4898fcd68a67": {
+    "date": "2026-01-21",
+    "start_time": "22:25",
+    "end_time": "22:27",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": "Present",
+      "Jaimin Jayntibhai Patel": "Absent",
+      "Vasu Sanjaybhai Patel": "Present",
+      "Darshan Ashokbhai Rajani": "Present",
+      "Jaimin Rajnikant Patel": "Absent"
+    },
+    "id": "4796296f-fe0e-4244-af48-4898fcd68a67"
+  },
+  "1383c7e7-354f-48bf-a427-cffc2bdcbe5e": {
+    "date": "2026-01-22",
+    "start_time": "23:57",
+    "end_time": "23:59",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": "Present",
+      "Jaimin Jayntibhai Patel": "Present",
+      "Jay Mansukhbhai Goti": "Present",
+      "Vasu Sanjaybhai Patel": "Present",
+      "Vishalbhai Babhubhai Rajani": "Present",
+      "Darshan Ashokbhai Rajani": "Present",
+      "Jaimin Rajnikant Patel": "Present",
+      "Khushal Jagadishbhai Vala": "Absent",
+      "Meet Vipulbhai Prajapati": "Absent",
+      "Jainish Vipulbhai Chodavadiya": "Absent",
+      "Jaydip Dipakbhai Prajapati": "Absent",
+      "Akshar Bharatbhai Brahmbhatt": "Absent",
+      "Jay Ramanbhai Patel": "Absent",
+      "Jay Vipulbhai Patel": "Absent",
+      "Mehul Arvindbhai Barot": "Absent",
+      "Nilkanth Hiteshabhai Vasoya": "Absent",
+      "Nirav Pradipbhai Rao": "Absent",
+      "Tejash Ashvinbhai Solanki": "Absent",
+      "Sankalp Samitkumar Patel": "Absent",
+      "Janmesh Devidasbhai Pandav": "Absent",
+      "Urvish Manojakumar Mewada": "Absent",
+      "Rushik Rakeshbhai Patel": "Absent",
+      "Smit Rabindrabhai Pate": "Absent",
+      "Bharav Sathishbhai Pandya": "Absent",
+      "Fenil Sendhabhai Patel": "Absent",
+      "Jay Manojbhai Soni": "Absent",
+      "Dharm Brijeshbhai Patel": "Absent",
+      "Harikrushnasinh Ajitsinh Mahida": "Absent",
+      "Saumya Rakeshbhai Patel": "Absent",
+      "Shubham Rakeshbhai Patel": "Absent",
+      "Siddh Mukeshbhai Ranpariya": "Absent",
+      "Smit Hiteshbhai Sharma": "Absent",
+      "Vraj Pravinbhai Prajapati": "Absent",
+      "Abhishek Motirambhai Muke": "Absent",
+      "Rishi Umeshkumar Brahmabhatta": "Absent",
+      "Vishnu Sanjaybhai Vanjara": "Absent",
+      "Aakash Jaysukhbhai Vasoya": "Absent",
+      "Akshar Mahendrabhai Andrapia": "Absent",
+      "Hiten Dineshbhai Solanki": "Absent",
+      "Jenil Bhaveshbhai Paghadar": "Absent",
+      "Krunalbhai Aashokbhai Patel": "Absent",
+      "Neelkanth Jigneshkumar Jani": "Absent",
+      "Pranav Yogeshbhai Vekriya": "Absent",
+      "Ronit Rajendrakumar Dabgar": "Absent",
+      "Akshay Bhaveshbhai Shingala": "Absent",
+      "Mehulbhai Babubhai Rajani": "Present",
+      "Nitinbhai Prakashabhai Prajapati": "Absent",
+      "Bhadresh Dineshbhai Solanki": "Absent",
+      "Poojan Sunilbhai Patel": "Absent",
+      "Ridham Vinodbhai Patel": "Absent",
+      "Shlok Anilbhai Barot": "Absent",
+      "Tejas Bhaveshbhai Patel": "Absent",
+      "Vansh Ramanbhai Patel": "Absent",
+      "Vatsal Rameshbhai Mania": "Absent",
+      "Dharmesh Ghanshyambhai Soni": "Absent",
+      "Parthiv Narendrabhai Rupaani": "Absent",
+      "Rudra Pankaj Rathod": "Absent",
+      "Tanmay Vipulbhai Prajapati": "Absent",
+      "Japan Sanjaybhai Suhagiya": "Absent",
+      "Manav Sureshbhai Harsora": "Absent",
+      "Mayur Sanjaybhai Patel": "Absent",
+      "Om Sanjay Bhai Vekariya": "Absent",
+      "Yagnesh Mukeshbhai Pithadiya": "Absent",
+      "Priyansh Nareshbhai Capadia": "Absent",
+      "Samarth Hiteshbhai Ghevariya": "Absent",
+      "Vyom Pankajbhai Rathod": "Absent",
+      "Deep Vipulbhai Sankhat": "Absent",
+      "Manthanbhai Sathishbhai Pandya": "Absent",
+      "Mayur Rajeshbhai Jinjuvadiya": "Absent",
+      "Vedant Ashvinabhai Soni": "Absent",
+      "Dhruv Mukeshbhai Dbaghar": "Absent",
+      "Parshva Ashvinabhai Soni": "Absent",
+      "Vanshbhai Nikunjabhai Kotak": "Absent",
+      "Nirav Santoshbhai Bhure": "Absent",
+      "Bhautik Gunvantbhai Ranpariya": "Absent",
+      "Himmatsinh Pravinsinh Vaghela": "Absent",
+      "Kandarp Dipeshbhai M": "Absent",
+      "Parth Vinodkumar Ratnani": "Absent",
+      "Jambukiya Keval B.": "Absent",
+      "Darshil Shivaji Nehte": "Absent",
+      "Dhruv Janakkumar Barot": "Absent",
+      "Dharm Pipilya": "Absent",
+      "Rajatabhai Mahendrabhai Sawaliya": "Absent",
+      "Vishwajit Dineshbhai Parmar": "Absent",
+      "Prem Tusharkumar Barot": "Absent",
+      "NaN": "Absent"
+    },
+    "id": "1383c7e7-354f-48bf-a427-cffc2bdcbe5e"
+  },
+  "2e3c5b99-eab5-4bca-b529-ed9361331f90": {
+    "date": "2026-01-23",
+    "start_time": "00:17",
+    "end_time": "00:20",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": "Absent",
+      "Jaimin Jayntibhai Patel": "Absent",
+      "Jay Mansukhbhai Goti": "Absent",
+      "Vasu Sanjaybhai Patel": "Absent",
+      "Vishalbhai Babhubhai Rajani": "Absent",
+      "Darshan Ashokbhai Rajani": "Absent",
+      "Jaimin Rajnikant Patel": "Present",
+      "Khushal Jagadishbhai Vala": "Present",
+      "Meet Vipulbhai Prajapati": "Present",
+      "Jainish Vipulbhai Chodavadiya": "Present",
+      "Jaydip Dipakbhai Prajapati": "Present",
+      "Akshar Bharatbhai Brahmbhatt": "Present",
+      "Jay Ramanbhai Patel": "Present",
+      "Jay Vipulbhai Patel": "Present",
+      "Mehul Arvindbhai Barot": "Present",
+      "Nilkanth Hiteshabhai Vasoya": "Present",
+      "Nirav Pradipbhai Rao": "Absent",
+      "Tejash Ashvinbhai Solanki": "Absent",
+      "Sankalp Samitkumar Patel": "Absent",
+      "Janmesh Devidasbhai Pandav": "Absent",
+      "Urvish Manojakumar Mewada": "Absent",
+      "Rushik Rakeshbhai Patel": "Absent",
+      "Smit Rabindrabhai Pate": "Absent",
+      "Bharav Sathishbhai Pandya": "Absent",
+      "Fenil Sendhabhai Patel": "Absent",
+      "Jay Manojbhai Soni": "Absent",
+      "Dharm Brijeshbhai Patel": "Absent",
+      "Harikrushnasinh Ajitsinh Mahida": "Absent",
+      "Saumya Rakeshbhai Patel": "Absent",
+      "Shubham Rakeshbhai Patel": "Absent",
+      "Siddh Mukeshbhai Ranpariya": "Absent",
+      "Smit Hiteshbhai Sharma": "Absent",
+      "Vraj Pravinbhai Prajapati": "Absent",
+      "Abhishek Motirambhai Muke": "Absent",
+      "Rishi Umeshkumar Brahmabhatta": "Absent",
+      "Vishnu Sanjaybhai Vanjara": "Absent",
+      "Aakash Jaysukhbhai Vasoya": "Absent",
+      "Akshar Mahendrabhai Andrapia": "Absent",
+      "Hiten Dineshbhai Solanki": "Absent",
+      "Jenil Bhaveshbhai Paghadar": "Absent",
+      "Krunalbhai Aashokbhai Patel": "Absent",
+      "Neelkanth Jigneshkumar Jani": "Absent",
+      "Pranav Yogeshbhai Vekriya": "Absent",
+      "Ronit Rajendrakumar Dabgar": "Absent",
+      "Akshay Bhaveshbhai Shingala": "Absent",
+      "Mehulbhai Babubhai Rajani": "Absent",
+      "Nitinbhai Prakashabhai Prajapati": "Absent",
+      "Bhadresh Dineshbhai Solanki": "Absent",
+      "Poojan Sunilbhai Patel": "Present",
+      "Ridham Vinodbhai Patel": "Absent",
+      "Shlok Anilbhai Barot": "Present",
+      "Tejas Bhaveshbhai Patel": "Absent",
+      "Vansh Ramanbhai Patel": "Absent",
+      "Vatsal Rameshbhai Mania": "Absent",
+      "Dharmesh Ghanshyambhai Soni": "Absent",
+      "Parthiv Narendrabhai Rupaani": "Absent",
+      "Rudra Pankaj Rathod": "Absent",
+      "Tanmay Vipulbhai Prajapati": "Absent",
+      "Japan Sanjaybhai Suhagiya": "Absent",
+      "Manav Sureshbhai Harsora": "Absent",
+      "Mayur Sanjaybhai Patel": "Absent",
+      "Om Sanjay Bhai Vekariya": "Absent",
+      "Yagnesh Mukeshbhai Pithadiya": "Absent",
+      "Priyansh Nareshbhai Capadia": "Absent",
+      "Samarth Hiteshbhai Ghevariya": "Absent",
+      "Vyom Pankajbhai Rathod": "Absent",
+      "Deep Vipulbhai Sankhat": "Absent",
+      "Manthanbhai Sathishbhai Pandya": "Absent",
+      "Mayur Rajeshbhai Jinjuvadiya": "Absent",
+      "Vedant Ashvinabhai Soni": "Absent",
+      "Dhruv Mukeshbhai Dbaghar": "Absent",
+      "Parshva Ashvinabhai Soni": "Absent",
+      "Vanshbhai Nikunjabhai Kotak": "Absent",
+      "Nirav Santoshbhai Bhure": "Absent",
+      "Bhautik Gunvantbhai Ranpariya": "Absent",
+      "Himmatsinh Pravinsinh Vaghela": "Absent",
+      "Kandarp Dipeshbhai M": "Absent",
+      "Parth Vinodkumar Ratnani": "Absent",
+      "Jambukiya Keval B.": "Absent",
+      "Darshil Shivaji Nehte": "Absent",
+      "Dhruv Janakkumar Barot": "Absent",
+      "Dharm Pipilya": "Absent",
+      "Rajatabhai Mahendrabhai Sawaliya": "Absent",
+      "Vishwajit Dineshbhai Parmar": "Absent",
+      "Prem Tusharkumar Barot": "Absent",
+      "NaN": "Absent"
+    },
+    "id": "2e3c5b99-eab5-4bca-b529-ed9361331f90"
+  },
+  "8c1d679f-7353-4b44-812d-71bd855bd0c4": {
+    "date": "2026-01-23",
+    "start_time": "06:49",
+    "end_time": "06:52",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": "Present",
+      "Jaimin Jayntibhai Patel": "Absent",
+      "Jay Mansukhbhai Goti": "Absent",
+      "Vasu Sanjaybhai Patel": "Absent",
+      "Vishalbhai Babhubhai Rajani": "Present",
+      "Darshan Ashokbhai Rajani": "Absent",
+      "Jaimin Rajnikant Patel": "Absent",
+      "Khushal Jagadishbhai Vala": "Present",
+      "Meet Vipulbhai Prajapati": "Absent",
+      "Jainish Vipulbhai Chodavadiya": "Absent",
+      "Jaydip Dipakbhai Prajapati": "Absent",
+      "Akshar Bharatbhai Brahmbhatt": "Absent",
+      "Jay Ramanbhai Patel": "Absent",
+      "Jay Vipulbhai Patel": "Absent",
+      "Mehul Arvindbhai Barot": "Present",
+      "Nilkanth Hiteshabhai Vasoya": "Absent",
+      "Nirav Pradipbhai Rao": "Absent",
+      "Tejash Ashvinbhai Solanki": "Absent",
+      "Sankalp Samitkumar Patel": "Absent",
+      "Janmesh Devidasbhai Pandav": "Absent",
+      "Urvish Manojakumar Mewada": "Absent",
+      "Rushik Rakeshbhai Patel": "Absent",
+      "Smit Rabindrabhai Pate": "Absent",
+      "Bharav Sathishbhai Pandya": "Absent",
+      "Fenil Sendhabhai Patel": "Absent",
+      "Jay Manojbhai Soni": "Absent",
+      "Dharm Brijeshbhai Patel": "Absent",
+      "Harikrushnasinh Ajitsinh Mahida": "Absent",
+      "Saumya Rakeshbhai Patel": "Absent",
+      "Shubham Rakeshbhai Patel": "Absent",
+      "Siddh Mukeshbhai Ranpariya": "Absent",
+      "Smit Hiteshbhai Sharma": "Absent",
+      "Vraj Pravinbhai Prajapati": "Absent",
+      "Abhishek Motirambhai Muke": "Absent",
+      "Rishi Umeshkumar Brahmabhatta": "Absent",
+      "Vishnu Sanjaybhai Vanjara": "Absent",
+      "Aakash Jaysukhbhai Vasoya": "Absent",
+      "Akshar Mahendrabhai Andrapia": "Absent",
+      "Hiten Dineshbhai Solanki": "Absent",
+      "Jenil Bhaveshbhai Paghadar": "Present",
+      "Krunalbhai Aashokbhai Patel": "Absent",
+      "Neelkanth Jigneshkumar Jani": "Absent",
+      "Pranav Yogeshbhai Vekriya": "Absent",
+      "Ronit Rajendrakumar Dabgar": "Absent",
+      "Akshay Bhaveshbhai Shingala": "Absent",
+      "Mehulbhai Babubhai Rajani": "Absent",
+      "Nitinbhai Prakashabhai Prajapati": "Absent",
+      "Bhadresh Dineshbhai Solanki": "Absent",
+      "Poojan Sunilbhai Patel": "Absent",
+      "Ridham Vinodbhai Patel": "Absent",
+      "Shlok Anilbhai Barot": "Absent",
+      "Tejas Bhaveshbhai Patel": "Absent",
+      "Vansh Ramanbhai Patel": "Absent",
+      "Vatsal Rameshbhai Mania": "Absent",
+      "Dharmesh Ghanshyambhai Soni": "Absent",
+      "Parthiv Narendrabhai Rupaani": "Absent",
+      "Rudra Pankaj Rathod": "Absent",
+      "Tanmay Vipulbhai Prajapati": "Absent",
+      "Japan Sanjaybhai Suhagiya": "Absent",
+      "Manav Sureshbhai Harsora": "Absent",
+      "Mayur Sanjaybhai Patel": "Absent",
+      "Om Sanjay Bhai Vekariya": "Absent",
+      "Yagnesh Mukeshbhai Pithadiya": "Absent",
+      "Priyansh Nareshbhai Capadia": "Absent",
+      "Samarth Hiteshbhai Ghevariya": "Absent",
+      "Vyom Pankajbhai Rathod": "Absent",
+      "Deep Vipulbhai Sankhat": "Absent",
+      "Manthanbhai Sathishbhai Pandya": "Absent",
+      "Mayur Rajeshbhai Jinjuvadiya": "Absent",
+      "Vedant Ashvinabhai Soni": "Absent",
+      "Dhruv Mukeshbhai Dbaghar": "Absent",
+      "Parshva Ashvinabhai Soni": "Absent",
+      "Vanshbhai Nikunjabhai Kotak": "Absent",
+      "Nirav Santoshbhai Bhure": "Absent",
+      "Bhautik Gunvantbhai Ranpariya": "Absent",
+      "Himmatsinh Pravinsinh Vaghela": "Absent",
+      "Kandarp Dipeshbhai M": "Absent",
+      "Parth Vinodkumar Ratnani": "Absent",
+      "Jambukiya Keval B.": "Absent",
+      "Darshil Shivaji Nehte": "Absent",
+      "Dhruv Janakkumar Barot": "Absent",
+      "Dharm Pipilya": "Absent",
+      "Rajatabhai Mahendrabhai Sawaliya": "Absent",
+      "Vishwajit Dineshbhai Parmar": "Absent",
+      "Prem Tusharkumar Barot": "Absent",
+      "NaN": "Absent"
+    },
+    "id": "8c1d679f-7353-4b44-812d-71bd855bd0c4"
+  },
+  "c7149d6e-7343-4294-a560-e36ec7376433": {
+    "date": "2026-01-23",
+    "start_time": "06:54",
+    "end_time": "06:57",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": "Absent",
+      "Jaimin Jayntibhai Patel": "Absent",
+      "Jay Mansukhbhai Goti": "Absent",
+      "Vasu Sanjaybhai Patel": "Absent",
+      "Vishalbhai Babhubhai Rajani": "Absent",
+      "Darshan Ashokbhai Rajani": "Absent",
+      "Jaimin Rajnikant Patel": "Absent",
+      "Khushal Jagadishbhai Vala": "Absent",
+      "Meet Vipulbhai Prajapati": "Absent",
+      "Jainish Vipulbhai Chodavadiya": "Absent",
+      "Jaydip Dipakbhai Prajapati": "Absent",
+      "Akshar Bharatbhai Brahmbhatt": "Absent",
+      "Jay Ramanbhai Patel": "Absent",
+      "Jay Vipulbhai Patel": "Absent",
+      "Mehul Arvindbhai Barot": "Absent",
+      "Nilkanth Hiteshabhai Vasoya": "Absent",
+      "Nirav Pradipbhai Rao": "Absent",
+      "Tejash Ashvinbhai Solanki": "Absent",
+      "Sankalp Samitkumar Patel": "Absent",
+      "Janmesh Devidasbhai Pandav": "Absent",
+      "Urvish Manojakumar Mewada": "Absent",
+      "Rushik Rakeshbhai Patel": "Absent",
+      "Smit Rabindrabhai Pate": "Absent",
+      "Bharav Sathishbhai Pandya": "Absent",
+      "Fenil Sendhabhai Patel": "Absent",
+      "Jay Manojbhai Soni": "Absent",
+      "Dharm Brijeshbhai Patel": "Absent",
+      "Harikrushnasinh Ajitsinh Mahida": "Absent",
+      "Saumya Rakeshbhai Patel": "Absent",
+      "Shubham Rakeshbhai Patel": "Absent",
+      "Siddh Mukeshbhai Ranpariya": "Absent",
+      "Smit Hiteshbhai Sharma": "Absent",
+      "Vraj Pravinbhai Prajapati": "Absent",
+      "Abhishek Motirambhai Muke": "Absent",
+      "Rishi Umeshkumar Brahmabhatta": "Absent",
+      "Vishnu Sanjaybhai Vanjara": "Absent",
+      "Aakash Jaysukhbhai Vasoya": "Absent",
+      "Akshar Mahendrabhai Andrapia": "Absent",
+      "Hiten Dineshbhai Solanki": "Absent",
+      "Jenil Bhaveshbhai Paghadar": "Absent",
+      "Krunalbhai Aashokbhai Patel": "Absent",
+      "Neelkanth Jigneshkumar Jani": "Absent",
+      "Pranav Yogeshbhai Vekriya": "Absent",
+      "Ronit Rajendrakumar Dabgar": "Absent",
+      "Akshay Bhaveshbhai Shingala": "Absent",
+      "Mehulbhai Babubhai Rajani": "Absent",
+      "Nitinbhai Prakashabhai Prajapati": "Absent",
+      "Bhadresh Dineshbhai Solanki": "Absent",
+      "Poojan Sunilbhai Patel": "Absent",
+      "Ridham Vinodbhai Patel": "Absent",
+      "Shlok Anilbhai Barot": "Absent",
+      "Tejas Bhaveshbhai Patel": "Absent",
+      "Vansh Ramanbhai Patel": "Absent",
+      "Vatsal Rameshbhai Mania": "Absent",
+      "Dharmesh Ghanshyambhai Soni": "Absent",
+      "Parthiv Narendrabhai Rupaani": "Absent",
+      "Rudra Pankaj Rathod": "Absent",
+      "Tanmay Vipulbhai Prajapati": "Absent",
+      "Japan Sanjaybhai Suhagiya": "Absent",
+      "Manav Sureshbhai Harsora": "Absent",
+      "Mayur Sanjaybhai Patel": "Absent",
+      "Om Sanjay Bhai Vekariya": "Absent",
+      "Yagnesh Mukeshbhai Pithadiya": "Absent",
+      "Priyansh Nareshbhai Capadia": "Absent",
+      "Samarth Hiteshbhai Ghevariya": "Absent",
+      "Vyom Pankajbhai Rathod": "Absent",
+      "Deep Vipulbhai Sankhat": "Absent",
+      "Manthanbhai Sathishbhai Pandya": "Absent",
+      "Mayur Rajeshbhai Jinjuvadiya": "Absent",
+      "Vedant Ashvinabhai Soni": "Absent",
+      "Dhruv Mukeshbhai Dbaghar": "Absent",
+      "Parshva Ashvinabhai Soni": "Absent",
+      "Vanshbhai Nikunjabhai Kotak": "Absent",
+      "Nirav Santoshbhai Bhure": "Absent",
+      "Bhautik Gunvantbhai Ranpariya": "Absent",
+      "Himmatsinh Pravinsinh Vaghela": "Absent",
+      "Kandarp Dipeshbhai M": "Absent",
+      "Parth Vinodkumar Ratnani": "Absent",
+      "Jambukiya Keval B.": "Absent",
+      "Darshil Shivaji Nehte": "Absent",
+      "Dhruv Janakkumar Barot": "Absent",
+      "Dharm Pipilya": "Absent",
+      "Rajatabhai Mahendrabhai Sawaliya": "Absent",
+      "Vishwajit Dineshbhai Parmar": "Absent",
+      "Prem Tusharkumar Barot": "Absent",
+      "NaN": "Absent"
+    },
+    "id": "c7149d6e-7343-4294-a560-e36ec7376433"
+  },
+  "11e886aa-1f12-45a7-9753-ea8a49821e0a": {
+    "date": "2026-01-24",
+    "start_time": "06:57",
+    "end_time": "06:59",
+    "status": "ENDED",
+    "attendance": {},
+    "id": "11e886aa-1f12-45a7-9753-ea8a49821e0a"
+  },
+  "cbd574d2-7aa2-47bc-aed7-e816f395c65c": {
+    "date": "2026-01-24",
+    "start_time": "07:04",
+    "end_time": "07:06",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": "Absent",
+      "Jaimin Jayntibhai Patel": "Absent",
+      "Jay Mansukhbhai Goti": "Absent",
+      "Vasu Sanjaybhai Patel": "Absent",
+      "Vishalbhai Babhubhai Rajani": "Absent",
+      "Darshan Ashokbhai Rajani": "Absent",
+      "Jaimin Rajnikant Patel": "Absent",
+      "Khushal Jagadishbhai Vala": "Absent",
+      "Meet Vipulbhai Prajapati": "Absent",
+      "Jainish Vipulbhai Chodavadiya": "Absent",
+      "Jaydip Dipakbhai Prajapati": "Absent",
+      "Akshar Bharatbhai Brahmbhatt": "Absent",
+      "Jay Ramanbhai Patel": "Absent",
+      "Jay Vipulbhai Patel": "Absent",
+      "Mehul Arvindbhai Barot": "Absent",
+      "Nilkanth Hiteshabhai Vasoya": "Absent",
+      "Nirav Pradipbhai Rao": "Absent",
+      "Tejash Ashvinbhai Solanki": "Absent",
+      "Sankalp Samitkumar Patel": "Absent",
+      "Janmesh Devidasbhai Pandav": "Absent",
+      "Urvish Manojakumar Mewada": "Absent",
+      "Rushik Rakeshbhai Patel": "Absent",
+      "Smit Rabindrabhai Pate": "Absent",
+      "Bharav Sathishbhai Pandya": "Absent",
+      "Fenil Sendhabhai Patel": "Absent",
+      "Jay Manojbhai Soni": "Absent",
+      "Dharm Brijeshbhai Patel": "Absent",
+      "Harikrushnasinh Ajitsinh Mahida": "Absent",
+      "Saumya Rakeshbhai Patel": "Absent",
+      "Shubham Rakeshbhai Patel": "Absent",
+      "Siddh Mukeshbhai Ranpariya": "Absent",
+      "Smit Hiteshbhai Sharma": "Absent",
+      "Vraj Pravinbhai Prajapati": "Absent",
+      "Abhishek Motirambhai Muke": "Absent",
+      "Rishi Umeshkumar Brahmabhatta": "Absent",
+      "Vishnu Sanjaybhai Vanjara": "Absent",
+      "Aakash Jaysukhbhai Vasoya": "Absent",
+      "Akshar Mahendrabhai Andrapia": "Absent",
+      "Hiten Dineshbhai Solanki": "Absent",
+      "Jenil Bhaveshbhai Paghadar": "Absent",
+      "Krunalbhai Aashokbhai Patel": "Absent",
+      "Neelkanth Jigneshkumar Jani": "Absent",
+      "Pranav Yogeshbhai Vekriya": "Absent",
+      "Ronit Rajendrakumar Dabgar": "Absent",
+      "Akshay Bhaveshbhai Shingala": "Absent",
+      "Mehulbhai Babubhai Rajani": "Absent",
+      "Nitinbhai Prakashabhai Prajapati": "Absent",
+      "Bhadresh Dineshbhai Solanki": "Absent",
+      "Poojan Sunilbhai Patel": "Absent",
+      "Ridham Vinodbhai Patel": "Absent",
+      "Shlok Anilbhai Barot": "Absent",
+      "Tejas Bhaveshbhai Patel": "Absent",
+      "Vansh Ramanbhai Patel": "Absent",
+      "Vatsal Rameshbhai Mania": "Absent",
+      "Dharmesh Ghanshyambhai Soni": "Absent",
+      "Parthiv Narendrabhai Rupaani": "Absent",
+      "Rudra Pankaj Rathod": "Absent",
+      "Tanmay Vipulbhai Prajapati": "Absent",
+      "Japan Sanjaybhai Suhagiya": "Absent",
+      "Manav Sureshbhai Harsora": "Absent",
+      "Mayur Sanjaybhai Patel": "Absent",
+      "Om Sanjay Bhai Vekariya": "Absent",
+      "Yagnesh Mukeshbhai Pithadiya": "Absent",
+      "Priyansh Nareshbhai Capadia": "Absent",
+      "Samarth Hiteshbhai Ghevariya": "Absent",
+      "Vyom Pankajbhai Rathod": "Absent",
+      "Deep Vipulbhai Sankhat": "Absent",
+      "Manthanbhai Sathishbhai Pandya": "Absent",
+      "Mayur Rajeshbhai Jinjuvadiya": "Absent",
+      "Vedant Ashvinabhai Soni": "Absent",
+      "Dhruv Mukeshbhai Dbaghar": "Absent",
+      "Parshva Ashvinabhai Soni": "Absent",
+      "Vanshbhai Nikunjabhai Kotak": "Absent",
+      "Nirav Santoshbhai Bhure": "Absent",
+      "Bhautik Gunvantbhai Ranpariya": "Absent",
+      "Himmatsinh Pravinsinh Vaghela": "Absent",
+      "Kandarp Dipeshbhai M": "Absent",
+      "Parth Vinodkumar Ratnani": "Absent",
+      "Jambukiya Keval B.": "Absent",
+      "Darshil Shivaji Nehte": "Absent",
+      "Dhruv Janakkumar Barot": "Absent",
+      "Dharm Pipilya": "Absent",
+      "Rajatabhai Mahendrabhai Sawaliya": "Absent",
+      "Vishwajit Dineshbhai Parmar": "Absent",
+      "Prem Tusharkumar Barot": "Absent",
+      "NaN": "Absent"
+    },
+    "id": "cbd574d2-7aa2-47bc-aed7-e816f395c65c"
+  },
+  "4a48e1e4-744a-4c6f-8b0b-9e48470756e5": {
+    "date": "2026-01-24",
+    "start_time": "07:08",
+    "end_time": "07:10",
+    "status": "ENDED",
+    "attendance": {},
+    "id": "4a48e1e4-744a-4c6f-8b0b-9e48470756e5"
+  },
+  "d1b1a916-91eb-4c71-a35d-906e7e6694b3": {
+    "date": "2026-01-24",
+    "start_time": "07:59",
+    "end_time": "08:01",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": "Absent",
+      "Jaimin Jayntibhai Patel": "Absent",
+      "Jay Mansukhbhai Goti": "Absent",
+      "Vasu Sanjaybhai Patel": "Absent",
+      "Vishalbhai Babhubhai Rajani": "Absent",
+      "Darshan Ashokbhai Rajani": "Absent",
+      "Jaimin Rajnikant Patel": "Absent",
+      "Khushal Jagadishbhai Vala": "Absent",
+      "Meet Vipulbhai Prajapati": "Absent",
+      "Jainish Vipulbhai Chodavadiya": "Absent",
+      "Jaydip Dipakbhai Prajapati": "Absent",
+      "Akshar Bharatbhai Brahmbhatt": "Absent",
+      "Jay Ramanbhai Patel": "Absent",
+      "Jay Vipulbhai Patel": "Absent",
+      "Mehul Arvindbhai Barot": "Absent",
+      "Nilkanth Hiteshabhai Vasoya": "Absent",
+      "Nirav Pradipbhai Rao": "Absent",
+      "Tejash Ashvinbhai Solanki": "Absent",
+      "Sankalp Samitkumar Patel": "Absent",
+      "Janmesh Devidasbhai Pandav": "Absent",
+      "Urvish Manojakumar Mewada": "Absent",
+      "Rushik Rakeshbhai Patel": "Present",
+      "Smit Rabindrabhai Pate": "Absent",
+      "Bharav Sathishbhai Pandya": "Present",
+      "Fenil Sendhabhai Patel": "Absent",
+      "Jay Manojbhai Soni": "Absent",
+      "Dharm Brijeshbhai Patel": "Absent",
+      "Harikrushnasinh Ajitsinh Mahida": "Present",
+      "Saumya Rakeshbhai Patel": "Absent",
+      "Shubham Rakeshbhai Patel": "Absent",
+      "Siddh Mukeshbhai Ranpariya": "Absent",
+      "Smit Hiteshbhai Sharma": "Absent",
+      "Vraj Pravinbhai Prajapati": "Absent",
+      "Abhishek Motirambhai Muke": "Present",
+      "Rishi Umeshkumar Brahmabhatta": "Absent",
+      "Vishnu Sanjaybhai Vanjara": "Absent",
+      "Aakash Jaysukhbhai Vasoya": "Absent",
+      "Akshar Mahendrabhai Andrapia": "Absent",
+      "Hiten Dineshbhai Solanki": "Absent",
+      "Jenil Bhaveshbhai Paghadar": "Absent",
+      "Krunalbhai Aashokbhai Patel": "Present",
+      "Neelkanth Jigneshkumar Jani": "Absent",
+      "Pranav Yogeshbhai Vekriya": "Absent",
+      "Ronit Rajendrakumar Dabgar": "Absent",
+      "Akshay Bhaveshbhai Shingala": "Absent",
+      "Mehulbhai Babubhai Rajani": "Absent",
+      "Nitinbhai Prakashabhai Prajapati": "Absent",
+      "Bhadresh Dineshbhai Solanki": "Absent",
+      "Poojan Sunilbhai Patel": "Absent",
+      "Ridham Vinodbhai Patel": "Absent",
+      "Shlok Anilbhai Barot": "Absent",
+      "Tejas Bhaveshbhai Patel": "Present",
+      "Vansh Ramanbhai Patel": "Absent",
+      "Vatsal Rameshbhai Mania": "Absent",
+      "Dharmesh Ghanshyambhai Soni": "Absent",
+      "Parthiv Narendrabhai Rupaani": "Absent",
+      "Rudra Pankaj Rathod": "Absent",
+      "Tanmay Vipulbhai Prajapati": "Absent",
+      "Japan Sanjaybhai Suhagiya": "Absent",
+      "Manav Sureshbhai Harsora": "Absent",
+      "Mayur Sanjaybhai Patel": "Absent",
+      "Om Sanjay Bhai Vekariya": "Absent",
+      "Yagnesh Mukeshbhai Pithadiya": "Present",
+      "Priyansh Nareshbhai Capadia": "Absent",
+      "Samarth Hiteshbhai Ghevariya": "Absent",
+      "Vyom Pankajbhai Rathod": "Absent",
+      "Deep Vipulbhai Sankhat": "Absent",
+      "Manthanbhai Sathishbhai Pandya": "Absent",
+      "Mayur Rajeshbhai Jinjuvadiya": "Absent",
+      "Vedant Ashvinabhai Soni": "Absent",
+      "Dhruv Mukeshbhai Dbaghar": "Absent",
+      "Parshva Ashvinabhai Soni": "Absent",
+      "Vanshbhai Nikunjabhai Kotak": "Absent",
+      "Nirav Santoshbhai Bhure": "Absent",
+      "Bhautik Gunvantbhai Ranpariya": "Absent",
+      "Himmatsinh Pravinsinh Vaghela": "Absent",
+      "Kandarp Dipeshbhai M": "Absent",
+      "Parth Vinodkumar Ratnani": "Absent",
+      "Jambukiya Keval B.": "Absent",
+      "Darshil Shivaji Nehte": "Absent",
+      "Dhruv Janakkumar Barot": "Absent",
+      "Dharm Pipilya": "Absent",
+      "Rajatabhai Mahendrabhai Sawaliya": "Absent",
+      "Vishwajit Dineshbhai Parmar": "Absent",
+      "Prem Tusharkumar Barot": "Absent",
+      "NaN": "Absent"
+    },
+    "id": "d1b1a916-91eb-4c71-a35d-906e7e6694b3"
+  },
+  "f1301b3c-fc82-4437-a59f-32e0b240ff3b": {
+    "date": "2026-01-24",
+    "start_time": "08:04",
+    "end_time": "08:05",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": "Present",
+      "Jaimin Jayntibhai Patel": "Present",
+      "Jay Mansukhbhai Goti": "Present",
+      "Vasu Sanjaybhai Patel": "Present",
+      "Vishalbhai Babhubhai Rajani": "Present",
+      "Darshan Ashokbhai Rajani": "Present",
+      "Jaimin Rajnikant Patel": "Present",
+      "Khushal Jagadishbhai Vala": "Present",
+      "Meet Vipulbhai Prajapati": "Present",
+      "Jainish Vipulbhai Chodavadiya": "Present",
+      "Jaydip Dipakbhai Prajapati": "Present",
+      "Akshar Bharatbhai Brahmbhatt": "Absent",
+      "Jay Ramanbhai Patel": "Absent",
+      "Jay Vipulbhai Patel": "Absent",
+      "Mehul Arvindbhai Barot": "Absent",
+      "Nilkanth Hiteshabhai Vasoya": "Absent",
+      "Nirav Pradipbhai Rao": "Absent",
+      "Tejash Ashvinbhai Solanki": "Absent",
+      "Sankalp Samitkumar Patel": "Absent",
+      "Janmesh Devidasbhai Pandav": "Absent",
+      "Urvish Manojakumar Mewada": "Absent",
+      "Rushik Rakeshbhai Patel": "Absent",
+      "Smit Rabindrabhai Pate": "Absent",
+      "Bharav Sathishbhai Pandya": "Absent",
+      "Fenil Sendhabhai Patel": "Absent",
+      "Jay Manojbhai Soni": "Absent",
+      "Dharm Brijeshbhai Patel": "Absent",
+      "Harikrushnasinh Ajitsinh Mahida": "Absent",
+      "Saumya Rakeshbhai Patel": "Absent",
+      "Shubham Rakeshbhai Patel": "Absent",
+      "Siddh Mukeshbhai Ranpariya": "Absent",
+      "Smit Hiteshbhai Sharma": "Absent",
+      "Vraj Pravinbhai Prajapati": "Absent",
+      "Abhishek Motirambhai Muke": "Absent",
+      "Rishi Umeshkumar Brahmabhatta": "Absent",
+      "Vishnu Sanjaybhai Vanjara": "Present",
+      "Aakash Jaysukhbhai Vasoya": "Present",
+      "Akshar Mahendrabhai Andrapia": "Present",
+      "Hiten Dineshbhai Solanki": "Absent",
+      "Jenil Bhaveshbhai Paghadar": "Absent",
+      "Krunalbhai Aashokbhai Patel": "Absent",
+      "Neelkanth Jigneshkumar Jani": "Absent",
+      "Pranav Yogeshbhai Vekriya": "Absent",
+      "Ronit Rajendrakumar Dabgar": "Absent",
+      "Akshay Bhaveshbhai Shingala": "Absent",
+      "Mehulbhai Babubhai Rajani": "Absent",
+      "Nitinbhai Prakashabhai Prajapati": "Absent",
+      "Bhadresh Dineshbhai Solanki": "Absent",
+      "Poojan Sunilbhai Patel": "Absent",
+      "Ridham Vinodbhai Patel": "Absent",
+      "Shlok Anilbhai Barot": "Absent",
+      "Tejas Bhaveshbhai Patel": "Absent",
+      "Vansh Ramanbhai Patel": "Absent",
+      "Vatsal Rameshbhai Mania": "Absent",
+      "Dharmesh Ghanshyambhai Soni": "Absent",
+      "Parthiv Narendrabhai Rupaani": "Absent",
+      "Rudra Pankaj Rathod": "Absent",
+      "Tanmay Vipulbhai Prajapati": "Absent",
+      "Japan Sanjaybhai Suhagiya": "Absent",
+      "Manav Sureshbhai Harsora": "Absent",
+      "Mayur Sanjaybhai Patel": "Absent",
+      "Om Sanjay Bhai Vekariya": "Absent",
+      "Yagnesh Mukeshbhai Pithadiya": "Absent",
+      "Priyansh Nareshbhai Capadia": "Absent",
+      "Samarth Hiteshbhai Ghevariya": "Absent",
+      "Vyom Pankajbhai Rathod": "Absent",
+      "Deep Vipulbhai Sankhat": "Absent",
+      "Manthanbhai Sathishbhai Pandya": "Absent",
+      "Mayur Rajeshbhai Jinjuvadiya": "Absent",
+      "Vedant Ashvinabhai Soni": "Absent",
+      "Dhruv Mukeshbhai Dbaghar": "Absent",
+      "Parshva Ashvinabhai Soni": "Absent",
+      "Vanshbhai Nikunjabhai Kotak": "Absent",
+      "Nirav Santoshbhai Bhure": "Absent",
+      "Bhautik Gunvantbhai Ranpariya": "Absent",
+      "Himmatsinh Pravinsinh Vaghela": "Absent",
+      "Kandarp Dipeshbhai M": "Absent",
+      "Parth Vinodkumar Ratnani": "Absent",
+      "Jambukiya Keval B.": "Absent",
+      "Darshil Shivaji Nehte": "Absent",
+      "Dhruv Janakkumar Barot": "Absent",
+      "Dharm Pipilya": "Absent",
+      "Rajatabhai Mahendrabhai Sawaliya": "Absent",
+      "Vishwajit Dineshbhai Parmar": "Absent",
+      "Prem Tusharkumar Barot": "Absent",
+      "NaN": "Absent"
+    },
+    "id": "f1301b3c-fc82-4437-a59f-32e0b240ff3b"
+  },
+  "54cb5496-9926-40be-a46c-9314c2d58376": {
+    "date": "2026-01-24",
+    "start_time": "08:10",
+    "end_time": "08:11",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": "Absent",
+      "Jaimin Jayntibhai Patel": "Absent",
+      "Jay Mansukhbhai Goti": "Absent",
+      "Vasu Sanjaybhai Patel": "Absent",
+      "Vishalbhai Babhubhai Rajani": "Absent",
+      "Darshan Ashokbhai Rajani": "Absent",
+      "Jaimin Rajnikant Patel": "Absent",
+      "Khushal Jagadishbhai Vala": "Absent",
+      "Meet Vipulbhai Prajapati": "Absent",
+      "Jainish Vipulbhai Chodavadiya": "Absent",
+      "Jaydip Dipakbhai Prajapati": "Absent",
+      "Akshar Bharatbhai Brahmbhatt": "Absent",
+      "Jay Ramanbhai Patel": "Absent",
+      "Jay Vipulbhai Patel": "Absent",
+      "Mehul Arvindbhai Barot": "Absent",
+      "Nilkanth Hiteshabhai Vasoya": "Absent",
+      "Nirav Pradipbhai Rao": "Absent",
+      "Tejash Ashvinbhai Solanki": "Absent",
+      "Sankalp Samitkumar Patel": "Absent",
+      "Janmesh Devidasbhai Pandav": "Absent",
+      "Urvish Manojakumar Mewada": "Absent",
+      "Rushik Rakeshbhai Patel": "Absent",
+      "Smit Rabindrabhai Pate": "Present",
+      "Bharav Sathishbhai Pandya": "Absent",
+      "Fenil Sendhabhai Patel": "Absent",
+      "Jay Manojbhai Soni": "Present",
+      "Dharm Brijeshbhai Patel": "Present",
+      "Harikrushnasinh Ajitsinh Mahida": "Present",
+      "Saumya Rakeshbhai Patel": "Absent",
+      "Shubham Rakeshbhai Patel": "Absent",
+      "Siddh Mukeshbhai Ranpariya": "Absent",
+      "Smit Hiteshbhai Sharma": "Absent",
+      "Vraj Pravinbhai Prajapati": "Absent",
+      "Abhishek Motirambhai Muke": "Present",
+      "Rishi Umeshkumar Brahmabhatta": "Absent",
+      "Vishnu Sanjaybhai Vanjara": "Absent",
+      "Aakash Jaysukhbhai Vasoya": "Present",
+      "Akshar Mahendrabhai Andrapia": "Absent",
+      "Hiten Dineshbhai Solanki": "Present",
+      "Jenil Bhaveshbhai Paghadar": "Absent",
+      "Krunalbhai Aashokbhai Patel": "Absent",
+      "Neelkanth Jigneshkumar Jani": "Absent",
+      "Pranav Yogeshbhai Vekriya": "Absent",
+      "Ronit Rajendrakumar Dabgar": "Absent",
+      "Akshay Bhaveshbhai Shingala": "Absent",
+      "Mehulbhai Babubhai Rajani": "Absent",
+      "Nitinbhai Prakashabhai Prajapati": "Absent",
+      "Bhadresh Dineshbhai Solanki": "Absent",
+      "Poojan Sunilbhai Patel": "Absent",
+      "Ridham Vinodbhai Patel": "Absent",
+      "Shlok Anilbhai Barot": "Absent",
+      "Tejas Bhaveshbhai Patel": "Absent",
+      "Vansh Ramanbhai Patel": "Absent",
+      "Vatsal Rameshbhai Mania": "Absent",
+      "Dharmesh Ghanshyambhai Soni": "Absent",
+      "Parthiv Narendrabhai Rupaani": "Absent",
+      "Rudra Pankaj Rathod": "Absent",
+      "Tanmay Vipulbhai Prajapati": "Absent",
+      "Japan Sanjaybhai Suhagiya": "Absent",
+      "Manav Sureshbhai Harsora": "Absent",
+      "Mayur Sanjaybhai Patel": "Absent",
+      "Om Sanjay Bhai Vekariya": "Absent",
+      "Yagnesh Mukeshbhai Pithadiya": "Absent",
+      "Priyansh Nareshbhai Capadia": "Absent",
+      "Samarth Hiteshbhai Ghevariya": "Absent",
+      "Vyom Pankajbhai Rathod": "Absent",
+      "Deep Vipulbhai Sankhat": "Absent",
+      "Manthanbhai Sathishbhai Pandya": "Absent",
+      "Mayur Rajeshbhai Jinjuvadiya": "Absent",
+      "Vedant Ashvinabhai Soni": "Absent",
+      "Dhruv Mukeshbhai Dbaghar": "Absent",
+      "Parshva Ashvinabhai Soni": "Absent",
+      "Vanshbhai Nikunjabhai Kotak": "Absent",
+      "Nirav Santoshbhai Bhure": "Absent",
+      "Bhautik Gunvantbhai Ranpariya": "Absent",
+      "Himmatsinh Pravinsinh Vaghela": "Absent",
+      "Kandarp Dipeshbhai M": "Absent",
+      "Parth Vinodkumar Ratnani": "Absent",
+      "Jambukiya Keval B.": "Absent",
+      "Darshil Shivaji Nehte": "Absent",
+      "Dhruv Janakkumar Barot": "Absent",
+      "Dharm Pipilya": "Absent",
+      "Rajatabhai Mahendrabhai Sawaliya": "Absent",
+      "Vishwajit Dineshbhai Parmar": "Absent",
+      "Prem Tusharkumar Barot": "Absent",
+      "NaN": "Absent"
+    },
+    "id": "54cb5496-9926-40be-a46c-9314c2d58376"
+  },
+  "63886e28-11ad-4c7c-935a-1eaee8925a32": {
+    "date": "2026-01-24",
+    "start_time": "15:01",
+    "end_time": "15:02",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": "Present",
+      "Jaimin Jayntibhai Patel": "Absent",
+      "Jay Mansukhbhai Goti": "Absent",
+      "Vasu Sanjaybhai Patel": "Absent",
+      "Vishalbhai Babhubhai Rajani": "Absent",
+      "Darshan Ashokbhai Rajani": "Present",
+      "Jaimin Rajnikant Patel": "Absent",
+      "Khushal Jagadishbhai Vala": "Absent",
+      "Meet Vipulbhai Prajapati": "Absent",
+      "Jainish Vipulbhai Chodavadiya": "Absent",
+      "Jaydip Dipakbhai Prajapati": "Present",
+      "Akshar Bharatbhai Brahmbhatt": "Present",
+      "Jay Ramanbhai Patel": "Absent",
+      "Jay Vipulbhai Patel": "Absent",
+      "Mehul Arvindbhai Barot": "Absent",
+      "Nilkanth Hiteshabhai Vasoya": "Present",
+      "Nirav Pradipbhai Rao": "Absent",
+      "Tejash Ashvinbhai Solanki": "Absent",
+      "Sankalp Samitkumar Patel": "Absent",
+      "Janmesh Devidasbhai Pandav": "Absent",
+      "Urvish Manojakumar Mewada": "Absent",
+      "Rushik Rakeshbhai Patel": "Present",
+      "Smit Rabindrabhai Pate": "Absent",
+      "Bharav Sathishbhai Pandya": "Present",
+      "Fenil Sendhabhai Patel": "Absent",
+      "Jay Manojbhai Soni": "Absent",
+      "Dharm Brijeshbhai Patel": "Absent",
+      "Harikrushnasinh Ajitsinh Mahida": "Absent",
+      "Saumya Rakeshbhai Patel": "Absent",
+      "Shubham Rakeshbhai Patel": "Absent",
+      "Siddh Mukeshbhai Ranpariya": "Absent",
+      "Smit Hiteshbhai Sharma": "Absent",
+      "Vraj Pravinbhai Prajapati": "Absent",
+      "Abhishek Motirambhai Muke": "Absent",
+      "Rishi Umeshkumar Brahmabhatta": "Absent",
+      "Vishnu Sanjaybhai Vanjara": "Absent",
+      "Aakash Jaysukhbhai Vasoya": "Absent",
+      "Akshar Mahendrabhai Andrapia": "Absent",
+      "Hiten Dineshbhai Solanki": "Absent",
+      "Jenil Bhaveshbhai Paghadar": "Absent",
+      "Krunalbhai Aashokbhai Patel": "Absent",
+      "Neelkanth Jigneshkumar Jani": "Absent",
+      "Pranav Yogeshbhai Vekriya": "Absent",
+      "Ronit Rajendrakumar Dabgar": "Absent",
+      "Akshay Bhaveshbhai Shingala": "Absent",
+      "Mehulbhai Babubhai Rajani": "Absent",
+      "Nitinbhai Prakashabhai Prajapati": "Absent",
+      "Bhadresh Dineshbhai Solanki": "Absent",
+      "Poojan Sunilbhai Patel": "Absent",
+      "Ridham Vinodbhai Patel": "Absent",
+      "Shlok Anilbhai Barot": "Absent",
+      "Tejas Bhaveshbhai Patel": "Absent",
+      "Vansh Ramanbhai Patel": "Absent",
+      "Vatsal Rameshbhai Mania": "Absent",
+      "Dharmesh Ghanshyambhai Soni": "Absent",
+      "Parthiv Narendrabhai Rupaani": "Absent",
+      "Rudra Pankaj Rathod": "Absent",
+      "Tanmay Vipulbhai Prajapati": "Absent",
+      "Japan Sanjaybhai Suhagiya": "Absent",
+      "Manav Sureshbhai Harsora": "Absent",
+      "Mayur Sanjaybhai Patel": "Absent",
+      "Om Sanjay Bhai Vekariya": "Absent",
+      "Yagnesh Mukeshbhai Pithadiya": "Absent",
+      "Priyansh Nareshbhai Capadia": "Absent",
+      "Samarth Hiteshbhai Ghevariya": "Absent",
+      "Vyom Pankajbhai Rathod": "Absent",
+      "Deep Vipulbhai Sankhat": "Absent",
+      "Manthanbhai Sathishbhai Pandya": "Absent",
+      "Mayur Rajeshbhai Jinjuvadiya": "Absent",
+      "Vedant Ashvinabhai Soni": "Absent",
+      "Dhruv Mukeshbhai Dbaghar": "Absent",
+      "Parshva Ashvinabhai Soni": "Absent",
+      "Vanshbhai Nikunjabhai Kotak": "Absent",
+      "Nirav Santoshbhai Bhure": "Absent",
+      "Bhautik Gunvantbhai Ranpariya": "Absent",
+      "Himmatsinh Pravinsinh Vaghela": "Absent",
+      "Kandarp Dipeshbhai M": "Absent",
+      "Parth Vinodkumar Ratnani": "Absent",
+      "Jambukiya Keval B.": "Absent",
+      "Darshil Shivaji Nehte": "Absent",
+      "Dhruv Janakkumar Barot": "Absent",
+      "Dharm Pipilya": "Absent",
+      "Rajatabhai Mahendrabhai Sawaliya": "Absent",
+      "Vishwajit Dineshbhai Parmar": "Absent",
+      "Prem Tusharkumar Barot": "Absent",
+      "NaN": "Absent"
+    },
+    "id": "63886e28-11ad-4c7c-935a-1eaee8925a32"
+  },
+  "410f1617-276d-4725-878b-66fc1871fab2": {
+    "date": "2026-01-24",
+    "start_time": "15:05",
+    "end_time": "15:07",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": "Present",
+      "Jaimin Jayntibhai Patel": "Present",
+      "Jay Mansukhbhai Goti": "Present",
+      "Vasu Sanjaybhai Patel": "Present",
+      "Vishalbhai Babhubhai Rajani": "Present",
+      "Darshan Ashokbhai Rajani": "Present",
+      "Jaimin Rajnikant Patel": "Present",
+      "Khushal Jagadishbhai Vala": "Absent",
+      "Meet Vipulbhai Prajapati": "Absent",
+      "Jainish Vipulbhai Chodavadiya": "Present",
+      "Jaydip Dipakbhai Prajapati": "Absent",
+      "Akshar Bharatbhai Brahmbhatt": "Present",
+      "Jay Ramanbhai Patel": "Absent",
+      "Jay Vipulbhai Patel": "Present",
+      "Mehul Arvindbhai Barot": "Absent",
+      "Nilkanth Hiteshabhai Vasoya": "Absent",
+      "Nirav Pradipbhai Rao": "Present",
+      "Tejash Ashvinbhai Solanki": "Absent",
+      "Sankalp Samitkumar Patel": "Absent",
+      "Janmesh Devidasbhai Pandav": "Absent",
+      "Urvish Manojakumar Mewada": "Absent",
+      "Rushik Rakeshbhai Patel": "Absent",
+      "Smit Rabindrabhai Pate": "Absent",
+      "Bharav Sathishbhai Pandya": "Absent",
+      "Fenil Sendhabhai Patel": "Absent",
+      "Jay Manojbhai Soni": "Absent",
+      "Dharm Brijeshbhai Patel": "Absent",
+      "Harikrushnasinh Ajitsinh Mahida": "Absent",
+      "Saumya Rakeshbhai Patel": "Absent",
+      "Shubham Rakeshbhai Patel": "Absent",
+      "Siddh Mukeshbhai Ranpariya": "Absent",
+      "Smit Hiteshbhai Sharma": "Absent",
+      "Vraj Pravinbhai Prajapati": "Absent",
+      "Abhishek Motirambhai Muke": "Absent",
+      "Rishi Umeshkumar Brahmabhatta": "Absent",
+      "Vishnu Sanjaybhai Vanjara": "Absent",
+      "Aakash Jaysukhbhai Vasoya": "Absent",
+      "Akshar Mahendrabhai Andrapia": "Absent",
+      "Hiten Dineshbhai Solanki": "Absent",
+      "Jenil Bhaveshbhai Paghadar": "Absent",
+      "Krunalbhai Aashokbhai Patel": "Absent",
+      "Neelkanth Jigneshkumar Jani": "Absent",
+      "Pranav Yogeshbhai Vekriya": "Absent",
+      "Ronit Rajendrakumar Dabgar": "Absent",
+      "Akshay Bhaveshbhai Shingala": "Absent",
+      "Mehulbhai Babubhai Rajani": "Absent",
+      "Nitinbhai Prakashabhai Prajapati": "Absent",
+      "Bhadresh Dineshbhai Solanki": "Absent",
+      "Poojan Sunilbhai Patel": "Absent",
+      "Ridham Vinodbhai Patel": "Absent",
+      "Shlok Anilbhai Barot": "Absent",
+      "Tejas Bhaveshbhai Patel": "Absent",
+      "Vansh Ramanbhai Patel": "Absent",
+      "Vatsal Rameshbhai Mania": "Absent",
+      "Dharmesh Ghanshyambhai Soni": "Absent",
+      "Parthiv Narendrabhai Rupaani": "Absent",
+      "Rudra Pankaj Rathod": "Absent",
+      "Tanmay Vipulbhai Prajapati": "Absent",
+      "Japan Sanjaybhai Suhagiya": "Absent",
+      "Manav Sureshbhai Harsora": "Absent",
+      "Mayur Sanjaybhai Patel": "Absent",
+      "Om Sanjay Bhai Vekariya": "Absent",
+      "Yagnesh Mukeshbhai Pithadiya": "Absent",
+      "Priyansh Nareshbhai Capadia": "Absent",
+      "Samarth Hiteshbhai Ghevariya": "Absent",
+      "Vyom Pankajbhai Rathod": "Absent",
+      "Deep Vipulbhai Sankhat": "Absent",
+      "Manthanbhai Sathishbhai Pandya": "Absent",
+      "Mayur Rajeshbhai Jinjuvadiya": "Absent",
+      "Vedant Ashvinabhai Soni": "Absent",
+      "Dhruv Mukeshbhai Dbaghar": "Absent",
+      "Parshva Ashvinabhai Soni": "Absent",
+      "Vanshbhai Nikunjabhai Kotak": "Absent",
+      "Nirav Santoshbhai Bhure": "Absent",
+      "Bhautik Gunvantbhai Ranpariya": "Absent",
+      "Himmatsinh Pravinsinh Vaghela": "Absent",
+      "Kandarp Dipeshbhai M": "Absent",
+      "Parth Vinodkumar Ratnani": "Absent",
+      "Jambukiya Keval B.": "Absent",
+      "Darshil Shivaji Nehte": "Absent",
+      "Dhruv Janakkumar Barot": "Absent",
+      "Dharm Pipilya": "Absent",
+      "Rajatabhai Mahendrabhai Sawaliya": "Absent",
+      "Vishwajit Dineshbhai Parmar": "Absent",
+      "Prem Tusharkumar Barot": "Absent",
+      "NaN": "Absent"
+    },
+    "id": "410f1617-276d-4725-878b-66fc1871fab2"
+  },
+  "77d56726-611d-4845-b587-48d1082736dc": {
+    "date": "2026-01-24",
+    "start_time": "15:28",
+    "end_time": "15:30",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": {
+        "status": "Present",
+        "time": ""
+      },
+      "Jaimin Jayntibhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Mansukhbhai Goti": {
+        "status": "Present",
+        "time": ""
+      },
+      "Vasu Sanjaybhai Patel": {
+        "status": "Present",
+        "time": ""
+      },
+      "Vishalbhai Babhubhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Darshan Ashokbhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jaimin Rajnikant Patel": {
+        "status": "Present",
+        "time": ""
+      },
+      "Khushal Jagadishbhai Vala": {
+        "status": "Absent",
+        "time": null
+      },
+      "Meet Vipulbhai Prajapati": {
+        "status": "Present",
+        "time": ""
+      },
+      "Jainish Vipulbhai Chodavadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jaydip Dipakbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshar Bharatbhai Brahmbhatt": {
+        "status": "Present",
+        "time": ""
+      },
+      "Jay Ramanbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Vipulbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mehul Arvindbhai Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nilkanth Hiteshabhai Vasoya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nirav Pradipbhai Rao": {
+        "status": "Present",
+        "time": ""
+      },
+      "Tejash Ashvinbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Sankalp Samitkumar Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Janmesh Devidasbhai Pandav": {
+        "status": "Absent",
+        "time": null
+      },
+      "Urvish Manojakumar Mewada": {
+        "status": "Present",
+        "time": ""
+      },
+      "Rushik Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Smit Rabindrabhai Pate": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bharav Sathishbhai Pandya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Fenil Sendhabhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Manojbhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharm Brijeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Harikrushnasinh Ajitsinh Mahida": {
+        "status": "Absent",
+        "time": null
+      },
+      "Saumya Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Shubham Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Siddh Mukeshbhai Ranpariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Smit Hiteshbhai Sharma": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vraj Pravinbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Abhishek Motirambhai Muke": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rishi Umeshkumar Brahmabhatta": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishnu Sanjaybhai Vanjara": {
+        "status": "Present",
+        "time": ""
+      },
+      "Aakash Jaysukhbhai Vasoya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshar Mahendrabhai Andrapia": {
+        "status": "Absent",
+        "time": null
+      },
+      "Hiten Dineshbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jenil Bhaveshbhai Paghadar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Krunalbhai Aashokbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Neelkanth Jigneshkumar Jani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Pranav Yogeshbhai Vekriya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Ronit Rajendrakumar Dabgar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshay Bhaveshbhai Shingala": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mehulbhai Babubhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nitinbhai Prakashabhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bhadresh Dineshbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Poojan Sunilbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Ridham Vinodbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Shlok Anilbhai Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tejas Bhaveshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vansh Ramanbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vatsal Rameshbhai Mania": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharmesh Ghanshyambhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parthiv Narendrabhai Rupaani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rudra Pankaj Rathod": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tanmay Vipulbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Japan Sanjaybhai Suhagiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Manav Sureshbhai Harsora": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mayur Sanjaybhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Om Sanjay Bhai Vekariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Yagnesh Mukeshbhai Pithadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Priyansh Nareshbhai Capadia": {
+        "status": "Absent",
+        "time": null
+      },
+      "Samarth Hiteshbhai Ghevariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vyom Pankajbhai Rathod": {
+        "status": "Absent",
+        "time": null
+      },
+      "Deep Vipulbhai Sankhat": {
+        "status": "Absent",
+        "time": null
+      },
+      "Manthanbhai Sathishbhai Pandya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mayur Rajeshbhai Jinjuvadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vedant Ashvinabhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dhruv Mukeshbhai Dbaghar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parshva Ashvinabhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vanshbhai Nikunjabhai Kotak": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nirav Santoshbhai Bhure": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bhautik Gunvantbhai Ranpariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Himmatsinh Pravinsinh Vaghela": {
+        "status": "Absent",
+        "time": null
+      },
+      "Kandarp Dipeshbhai M": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parth Vinodkumar Ratnani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jambukiya Keval B.": {
+        "status": "Absent",
+        "time": null
+      },
+      "Darshil Shivaji Nehte": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dhruv Janakkumar Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharm Pipilya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rajatabhai Mahendrabhai Sawaliya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishwajit Dineshbhai Parmar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Prem Tusharkumar Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "NaN": {
+        "status": "Absent",
+        "time": null
+      }
+    },
+    "id": "77d56726-611d-4845-b587-48d1082736dc"
+  },
+  "1ab02ecd-0424-439d-9a3e-26380b3865da": {
+    "date": "2026-01-24",
+    "start_time": "15:32",
+    "end_time": "15:35",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": {
+        "status": "Present",
+        "time": ""
+      },
+      "Jaimin Jayntibhai Patel": {
+        "status": "Present",
+        "time": ""
+      },
+      "Jay Mansukhbhai Goti": {
+        "status": "Present",
+        "time": ""
+      },
+      "Vasu Sanjaybhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishalbhai Babhubhai Rajani": {
+        "status": "Present",
+        "time": ""
+      },
+      "Darshan Ashokbhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jaimin Rajnikant Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Khushal Jagadishbhai Vala": {
+        "status": "Absent",
+        "time": null
+      },
+      "Meet Vipulbhai Prajapati": {
+        "status": "Present",
+        "time": ""
+      },
+      "Jainish Vipulbhai Chodavadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jaydip Dipakbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshar Bharatbhai Brahmbhatt": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Ramanbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Vipulbhai Patel": {
+        "status": "Present",
+        "time": ""
+      },
+      "Mehul Arvindbhai Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nilkanth Hiteshabhai Vasoya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nirav Pradipbhai Rao": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tejash Ashvinbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Sankalp Samitkumar Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Janmesh Devidasbhai Pandav": {
+        "status": "Absent",
+        "time": null
+      },
+      "Urvish Manojakumar Mewada": {
+        "status": "Present",
+        "time": ""
+      },
+      "Rushik Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Smit Rabindrabhai Pate": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bharav Sathishbhai Pandya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Fenil Sendhabhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Manojbhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharm Brijeshbhai Patel": {
+        "status": "Present",
+        "time": ""
+      },
+      "Harikrushnasinh Ajitsinh Mahida": {
+        "status": "Absent",
+        "time": null
+      },
+      "Saumya Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Shubham Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Siddh Mukeshbhai Ranpariya": {
+        "status": "Present",
+        "time": ""
+      },
+      "Smit Hiteshbhai Sharma": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vraj Pravinbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Abhishek Motirambhai Muke": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rishi Umeshkumar Brahmabhatta": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishnu Sanjaybhai Vanjara": {
+        "status": "Absent",
+        "time": null
+      },
+      "Aakash Jaysukhbhai Vasoya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshar Mahendrabhai Andrapia": {
+        "status": "Absent",
+        "time": null
+      },
+      "Hiten Dineshbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jenil Bhaveshbhai Paghadar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Krunalbhai Aashokbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Neelkanth Jigneshkumar Jani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Pranav Yogeshbhai Vekriya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Ronit Rajendrakumar Dabgar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshay Bhaveshbhai Shingala": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mehulbhai Babubhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nitinbhai Prakashabhai Prajapati": {
+        "status": "Present",
+        "time": ""
+      },
+      "Bhadresh Dineshbhai Solanki": {
+        "status": "Present",
+        "time": ""
+      },
+      "Poojan Sunilbhai Patel": {
+        "status": "Present",
+        "time": ""
+      },
+      "Ridham Vinodbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Shlok Anilbhai Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tejas Bhaveshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vansh Ramanbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vatsal Rameshbhai Mania": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharmesh Ghanshyambhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parthiv Narendrabhai Rupaani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rudra Pankaj Rathod": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tanmay Vipulbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Japan Sanjaybhai Suhagiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Manav Sureshbhai Harsora": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mayur Sanjaybhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Om Sanjay Bhai Vekariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Yagnesh Mukeshbhai Pithadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Priyansh Nareshbhai Capadia": {
+        "status": "Absent",
+        "time": null
+      },
+      "Samarth Hiteshbhai Ghevariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vyom Pankajbhai Rathod": {
+        "status": "Absent",
+        "time": null
+      },
+      "Deep Vipulbhai Sankhat": {
+        "status": "Absent",
+        "time": null
+      },
+      "Manthanbhai Sathishbhai Pandya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mayur Rajeshbhai Jinjuvadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vedant Ashvinabhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dhruv Mukeshbhai Dbaghar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parshva Ashvinabhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vanshbhai Nikunjabhai Kotak": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nirav Santoshbhai Bhure": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bhautik Gunvantbhai Ranpariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Himmatsinh Pravinsinh Vaghela": {
+        "status": "Absent",
+        "time": null
+      },
+      "Kandarp Dipeshbhai M": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parth Vinodkumar Ratnani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jambukiya Keval B.": {
+        "status": "Absent",
+        "time": null
+      },
+      "Darshil Shivaji Nehte": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dhruv Janakkumar Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharm Pipilya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rajatabhai Mahendrabhai Sawaliya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishwajit Dineshbhai Parmar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Prem Tusharkumar Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "NaN": {
+        "status": "Absent",
+        "time": null
+      }
+    },
+    "id": "1ab02ecd-0424-439d-9a3e-26380b3865da"
+  },
+  "1bbda9a7-4880-4c81-a368-c2869b04ece4": {
+    "date": "2026-01-24",
+    "start_time": "15:35",
+    "end_time": "15:37",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": {
+        "status": "Present",
+        "time": ""
+      },
+      "Jaimin Jayntibhai Patel": {
+        "status": "Present",
+        "time": ""
+      },
+      "Jay Mansukhbhai Goti": {
+        "status": "Present",
+        "time": ""
+      },
+      "Vasu Sanjaybhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishalbhai Babhubhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Darshan Ashokbhai Rajani": {
+        "status": "Present",
+        "time": ""
+      },
+      "Jaimin Rajnikant Patel": {
+        "status": "Present",
+        "time": ""
+      },
+      "Khushal Jagadishbhai Vala": {
+        "status": "Present",
+        "time": ""
+      },
+      "Meet Vipulbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jainish Vipulbhai Chodavadiya": {
+        "status": "Present",
+        "time": ""
+      },
+      "Jaydip Dipakbhai Prajapati": {
+        "status": "Present",
+        "time": ""
+      },
+      "Akshar Bharatbhai Brahmbhatt": {
+        "status": "Present",
+        "time": ""
+      },
+      "Jay Ramanbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Vipulbhai Patel": {
+        "status": "Present",
+        "time": ""
+      },
+      "Mehul Arvindbhai Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nilkanth Hiteshabhai Vasoya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nirav Pradipbhai Rao": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tejash Ashvinbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Sankalp Samitkumar Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Janmesh Devidasbhai Pandav": {
+        "status": "Absent",
+        "time": null
+      },
+      "Urvish Manojakumar Mewada": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rushik Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Smit Rabindrabhai Pate": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bharav Sathishbhai Pandya": {
+        "status": "Present",
+        "time": ""
+      },
+      "Fenil Sendhabhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Manojbhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharm Brijeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Harikrushnasinh Ajitsinh Mahida": {
+        "status": "Absent",
+        "time": null
+      },
+      "Saumya Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Shubham Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Siddh Mukeshbhai Ranpariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Smit Hiteshbhai Sharma": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vraj Pravinbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Abhishek Motirambhai Muke": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rishi Umeshkumar Brahmabhatta": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishnu Sanjaybhai Vanjara": {
+        "status": "Absent",
+        "time": null
+      },
+      "Aakash Jaysukhbhai Vasoya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshar Mahendrabhai Andrapia": {
+        "status": "Absent",
+        "time": null
+      },
+      "Hiten Dineshbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jenil Bhaveshbhai Paghadar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Krunalbhai Aashokbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Neelkanth Jigneshkumar Jani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Pranav Yogeshbhai Vekriya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Ronit Rajendrakumar Dabgar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshay Bhaveshbhai Shingala": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mehulbhai Babubhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nitinbhai Prakashabhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bhadresh Dineshbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Poojan Sunilbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Ridham Vinodbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Shlok Anilbhai Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tejas Bhaveshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vansh Ramanbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vatsal Rameshbhai Mania": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharmesh Ghanshyambhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parthiv Narendrabhai Rupaani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rudra Pankaj Rathod": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tanmay Vipulbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Japan Sanjaybhai Suhagiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Manav Sureshbhai Harsora": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mayur Sanjaybhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Om Sanjay Bhai Vekariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Yagnesh Mukeshbhai Pithadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Priyansh Nareshbhai Capadia": {
+        "status": "Absent",
+        "time": null
+      },
+      "Samarth Hiteshbhai Ghevariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vyom Pankajbhai Rathod": {
+        "status": "Absent",
+        "time": null
+      },
+      "Deep Vipulbhai Sankhat": {
+        "status": "Absent",
+        "time": null
+      },
+      "Manthanbhai Sathishbhai Pandya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mayur Rajeshbhai Jinjuvadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vedant Ashvinabhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dhruv Mukeshbhai Dbaghar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parshva Ashvinabhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vanshbhai Nikunjabhai Kotak": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nirav Santoshbhai Bhure": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bhautik Gunvantbhai Ranpariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Himmatsinh Pravinsinh Vaghela": {
+        "status": "Absent",
+        "time": null
+      },
+      "Kandarp Dipeshbhai M": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parth Vinodkumar Ratnani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jambukiya Keval B.": {
+        "status": "Absent",
+        "time": null
+      },
+      "Darshil Shivaji Nehte": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dhruv Janakkumar Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharm Pipilya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rajatabhai Mahendrabhai Sawaliya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishwajit Dineshbhai Parmar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Prem Tusharkumar Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "NaN": {
+        "status": "Absent",
+        "time": null
+      }
+    },
+    "id": "1bbda9a7-4880-4c81-a368-c2869b04ece4"
+  },
+  "77665ee1-728e-4dd3-b7ed-40010ae66dd4": {
+    "date": "2026-01-24",
+    "start_time": "16:01",
+    "end_time": "16:03",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": {
+        "status": "Present",
+        "time": ""
+      },
+      "Jaimin Jayntibhai Patel": {
+        "status": "Present",
+        "time": ""
+      },
+      "Jay Mansukhbhai Goti": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vasu Sanjaybhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishalbhai Babhubhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Darshan Ashokbhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jaimin Rajnikant Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Khushal Jagadishbhai Vala": {
+        "status": "Absent",
+        "time": null
+      },
+      "Meet Vipulbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jainish Vipulbhai Chodavadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jaydip Dipakbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshar Bharatbhai Brahmbhatt": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Ramanbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Vipulbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mehul Arvindbhai Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nilkanth Hiteshabhai Vasoya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nirav Pradipbhai Rao": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tejash Ashvinbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Sankalp Samitkumar Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Janmesh Devidasbhai Pandav": {
+        "status": "Present",
+        "time": ""
+      },
+      "Urvish Manojakumar Mewada": {
+        "status": "Present",
+        "time": ""
+      },
+      "Rushik Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Smit Rabindrabhai Pate": {
+        "status": "Present",
+        "time": ""
+      },
+      "Bharav Sathishbhai Pandya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Fenil Sendhabhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Manojbhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharm Brijeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Harikrushnasinh Ajitsinh Mahida": {
+        "status": "Absent",
+        "time": null
+      },
+      "Saumya Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Shubham Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Siddh Mukeshbhai Ranpariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Smit Hiteshbhai Sharma": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vraj Pravinbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Abhishek Motirambhai Muke": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rishi Umeshkumar Brahmabhatta": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishnu Sanjaybhai Vanjara": {
+        "status": "Absent",
+        "time": null
+      },
+      "Aakash Jaysukhbhai Vasoya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshar Mahendrabhai Andrapia": {
+        "status": "Absent",
+        "time": null
+      },
+      "Hiten Dineshbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jenil Bhaveshbhai Paghadar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Krunalbhai Aashokbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Neelkanth Jigneshkumar Jani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Pranav Yogeshbhai Vekriya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Ronit Rajendrakumar Dabgar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshay Bhaveshbhai Shingala": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mehulbhai Babubhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nitinbhai Prakashabhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bhadresh Dineshbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Poojan Sunilbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Ridham Vinodbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Shlok Anilbhai Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tejas Bhaveshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vansh Ramanbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vatsal Rameshbhai Mania": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharmesh Ghanshyambhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parthiv Narendrabhai Rupaani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rudra Pankaj Rathod": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tanmay Vipulbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Japan Sanjaybhai Suhagiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Manav Sureshbhai Harsora": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mayur Sanjaybhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Om Sanjay Bhai Vekariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Yagnesh Mukeshbhai Pithadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Priyansh Nareshbhai Capadia": {
+        "status": "Absent",
+        "time": null
+      },
+      "Samarth Hiteshbhai Ghevariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vyom Pankajbhai Rathod": {
+        "status": "Absent",
+        "time": null
+      },
+      "Deep Vipulbhai Sankhat": {
+        "status": "Absent",
+        "time": null
+      },
+      "Manthanbhai Sathishbhai Pandya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mayur Rajeshbhai Jinjuvadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vedant Ashvinabhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dhruv Mukeshbhai Dbaghar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parshva Ashvinabhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vanshbhai Nikunjabhai Kotak": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nirav Santoshbhai Bhure": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bhautik Gunvantbhai Ranpariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Himmatsinh Pravinsinh Vaghela": {
+        "status": "Absent",
+        "time": null
+      },
+      "Kandarp Dipeshbhai M": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parth Vinodkumar Ratnani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jambukiya Keval B.": {
+        "status": "Absent",
+        "time": null
+      },
+      "Darshil Shivaji Nehte": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dhruv Janakkumar Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharm Pipilya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rajatabhai Mahendrabhai Sawaliya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishwajit Dineshbhai Parmar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Prem Tusharkumar Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "NaN": {
+        "status": "Absent",
+        "time": null
+      }
+    },
+    "id": "77665ee1-728e-4dd3-b7ed-40010ae66dd4"
+  },
+  "2ab8091a-44e7-41d6-9b3d-617489dbc488": {
+    "date": "2026-01-24",
+    "start_time": "16:06",
+    "end_time": "16:10",
+    "status": "ENDED",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": {
+        "status": "Present",
+        "time": ""
+      },
+      "Jaimin Jayntibhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Mansukhbhai Goti": {
+        "status": "Present",
+        "time": ""
+      },
+      "Vasu Sanjaybhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishalbhai Babhubhai Rajani": {
+        "status": "Present",
+        "time": ""
+      },
+      "Darshan Ashokbhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jaimin Rajnikant Patel": {
+        "status": "Present",
+        "time": ""
+      },
+      "Khushal Jagadishbhai Vala": {
+        "status": "Absent",
+        "time": null
+      },
+      "Meet Vipulbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jainish Vipulbhai Chodavadiya": {
+        "status": "Present",
+        "time": ""
+      },
+      "Jaydip Dipakbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshar Bharatbhai Brahmbhatt": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Ramanbhai Patel": {
+        "status": "Present",
+        "time": ""
+      },
+      "Jay Vipulbhai Patel": {
+        "status": "Present",
+        "time": ""
+      },
+      "Mehul Arvindbhai Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nilkanth Hiteshabhai Vasoya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nirav Pradipbhai Rao": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tejash Ashvinbhai Solanki": {
+        "status": "Present",
+        "time": ""
+      },
+      "Sankalp Samitkumar Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Janmesh Devidasbhai Pandav": {
+        "status": "Absent",
+        "time": null
+      },
+      "Urvish Manojakumar Mewada": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rushik Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Smit Rabindrabhai Pate": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bharav Sathishbhai Pandya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Fenil Sendhabhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Manojbhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharm Brijeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Harikrushnasinh Ajitsinh Mahida": {
+        "status": "Absent",
+        "time": null
+      },
+      "Saumya Rakeshbhai Patel": {
+        "status": "Present",
+        "time": ""
+      },
+      "Shubham Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Siddh Mukeshbhai Ranpariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Smit Hiteshbhai Sharma": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vraj Pravinbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Abhishek Motirambhai Muke": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rishi Umeshkumar Brahmabhatta": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishnu Sanjaybhai Vanjara": {
+        "status": "Absent",
+        "time": null
+      },
+      "Aakash Jaysukhbhai Vasoya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshar Mahendrabhai Andrapia": {
+        "status": "Absent",
+        "time": null
+      },
+      "Hiten Dineshbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jenil Bhaveshbhai Paghadar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Krunalbhai Aashokbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Neelkanth Jigneshkumar Jani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Pranav Yogeshbhai Vekriya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Ronit Rajendrakumar Dabgar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshay Bhaveshbhai Shingala": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mehulbhai Babubhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nitinbhai Prakashabhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bhadresh Dineshbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Poojan Sunilbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Ridham Vinodbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Shlok Anilbhai Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tejas Bhaveshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vansh Ramanbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vatsal Rameshbhai Mania": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharmesh Ghanshyambhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parthiv Narendrabhai Rupaani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rudra Pankaj Rathod": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tanmay Vipulbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Japan Sanjaybhai Suhagiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Manav Sureshbhai Harsora": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mayur Sanjaybhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Om Sanjay Bhai Vekariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Yagnesh Mukeshbhai Pithadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Priyansh Nareshbhai Capadia": {
+        "status": "Absent",
+        "time": null
+      },
+      "Samarth Hiteshbhai Ghevariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vyom Pankajbhai Rathod": {
+        "status": "Absent",
+        "time": null
+      },
+      "Deep Vipulbhai Sankhat": {
+        "status": "Absent",
+        "time": null
+      },
+      "Manthanbhai Sathishbhai Pandya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mayur Rajeshbhai Jinjuvadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vedant Ashvinabhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dhruv Mukeshbhai Dbaghar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parshva Ashvinabhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vanshbhai Nikunjabhai Kotak": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nirav Santoshbhai Bhure": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bhautik Gunvantbhai Ranpariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Himmatsinh Pravinsinh Vaghela": {
+        "status": "Absent",
+        "time": null
+      },
+      "Kandarp Dipeshbhai M": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parth Vinodkumar Ratnani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jambukiya Keval B.": {
+        "status": "Absent",
+        "time": null
+      },
+      "Darshil Shivaji Nehte": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dhruv Janakkumar Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharm Pipilya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rajatabhai Mahendrabhai Sawaliya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishwajit Dineshbhai Parmar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Prem Tusharkumar Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "NaN": {
+        "status": "Absent",
+        "time": null
+      }
+    },
+    "id": "2ab8091a-44e7-41d6-9b3d-617489dbc488"
+  },
+  "7568f229-b8a4-4dad-978c-62c1d2856f43": {
+    "date": "2026-01-24",
+    "start_time": "16:29",
+    "end_time": "16:33",
+    "status": "ENDED",
+    "created_at": "2026-01-24 16:28:30",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": {
+        "status": "Present",
+        "time": ""
+      },
+      "Jaimin Jayntibhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Mansukhbhai Goti": {
+        "status": "Present",
+        "time": ""
+      },
+      "Vasu Sanjaybhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishalbhai Babhubhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Darshan Ashokbhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jaimin Rajnikant Patel": {
+        "status": "Present",
+        "time": ""
+      },
+      "Khushal Jagadishbhai Vala": {
+        "status": "Absent",
+        "time": null
+      },
+      "Meet Vipulbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jainish Vipulbhai Chodavadiya": {
+        "status": "Present",
+        "time": ""
+      },
+      "Jaydip Dipakbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshar Bharatbhai Brahmbhatt": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Ramanbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Vipulbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mehul Arvindbhai Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nilkanth Hiteshabhai Vasoya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nirav Pradipbhai Rao": {
+        "status": "Present",
+        "time": ""
+      },
+      "Tejash Ashvinbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Sankalp Samitkumar Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Janmesh Devidasbhai Pandav": {
+        "status": "Absent",
+        "time": null
+      },
+      "Urvish Manojakumar Mewada": {
+        "status": "Present",
+        "time": ""
+      },
+      "Rushik Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Smit Rabindrabhai Pate": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bharav Sathishbhai Pandya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Fenil Sendhabhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Manojbhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharm Brijeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Harikrushnasinh Ajitsinh Mahida": {
+        "status": "Absent",
+        "time": null
+      },
+      "Saumya Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Shubham Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Siddh Mukeshbhai Ranpariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Smit Hiteshbhai Sharma": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vraj Pravinbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Abhishek Motirambhai Muke": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rishi Umeshkumar Brahmabhatta": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishnu Sanjaybhai Vanjara": {
+        "status": "Absent",
+        "time": null
+      },
+      "Aakash Jaysukhbhai Vasoya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshar Mahendrabhai Andrapia": {
+        "status": "Absent",
+        "time": null
+      },
+      "Hiten Dineshbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jenil Bhaveshbhai Paghadar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Krunalbhai Aashokbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Neelkanth Jigneshkumar Jani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Pranav Yogeshbhai Vekriya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Ronit Rajendrakumar Dabgar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshay Bhaveshbhai Shingala": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mehulbhai Babubhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nitinbhai Prakashabhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bhadresh Dineshbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Poojan Sunilbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Ridham Vinodbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Shlok Anilbhai Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tejas Bhaveshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vansh Ramanbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vatsal Rameshbhai Mania": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharmesh Ghanshyambhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parthiv Narendrabhai Rupaani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rudra Pankaj Rathod": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tanmay Vipulbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Japan Sanjaybhai Suhagiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Manav Sureshbhai Harsora": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mayur Sanjaybhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Om Sanjay Bhai Vekariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Yagnesh Mukeshbhai Pithadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Priyansh Nareshbhai Capadia": {
+        "status": "Absent",
+        "time": null
+      },
+      "Samarth Hiteshbhai Ghevariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vyom Pankajbhai Rathod": {
+        "status": "Absent",
+        "time": null
+      },
+      "Deep Vipulbhai Sankhat": {
+        "status": "Absent",
+        "time": null
+      },
+      "Manthanbhai Sathishbhai Pandya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mayur Rajeshbhai Jinjuvadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vedant Ashvinabhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dhruv Mukeshbhai Dbaghar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parshva Ashvinabhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vanshbhai Nikunjabhai Kotak": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nirav Santoshbhai Bhure": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bhautik Gunvantbhai Ranpariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Himmatsinh Pravinsinh Vaghela": {
+        "status": "Absent",
+        "time": null
+      },
+      "Kandarp Dipeshbhai M": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parth Vinodkumar Ratnani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jambukiya Keval B.": {
+        "status": "Absent",
+        "time": null
+      },
+      "Darshil Shivaji Nehte": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dhruv Janakkumar Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharm Pipilya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rajatabhai Mahendrabhai Sawaliya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishwajit Dineshbhai Parmar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Prem Tusharkumar Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "NaN": {
+        "status": "Absent",
+        "time": null
+      }
+    },
+    "id": "7568f229-b8a4-4dad-978c-62c1d2856f43"
+  },
+  "4197e2a4-2a15-42ea-b918-ea8ddfe94a1f": {
+    "date": "2026-01-24",
+    "start_time": "16:55",
+    "end_time": "16:58",
+    "status": "ENDED",
+    "created_at": "2026-01-24 16:54:46",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": {
+        "status": "Present",
+        "time": ""
+      },
+      "Jaimin Jayntibhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Mansukhbhai Goti": {
+        "status": "Present",
+        "time": ""
+      },
+      "Vasu Sanjaybhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishalbhai Babhubhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Darshan Ashokbhai Rajani": {
+        "status": "Present",
+        "time": ""
+      },
+      "Jaimin Rajnikant Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Khushal Jagadishbhai Vala": {
+        "status": "Absent",
+        "time": null
+      },
+      "Meet Vipulbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jainish Vipulbhai Chodavadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jaydip Dipakbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshar Bharatbhai Brahmbhatt": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Ramanbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Vipulbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mehul Arvindbhai Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nilkanth Hiteshabhai Vasoya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nirav Pradipbhai Rao": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tejash Ashvinbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Sankalp Samitkumar Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Janmesh Devidasbhai Pandav": {
+        "status": "Absent",
+        "time": null
+      },
+      "Urvish Manojakumar Mewada": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rushik Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Smit Rabindrabhai Pate": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bharav Sathishbhai Pandya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Fenil Sendhabhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Manojbhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharm Brijeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Harikrushnasinh Ajitsinh Mahida": {
+        "status": "Absent",
+        "time": null
+      },
+      "Saumya Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Shubham Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Siddh Mukeshbhai Ranpariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Smit Hiteshbhai Sharma": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vraj Pravinbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Abhishek Motirambhai Muke": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rishi Umeshkumar Brahmabhatta": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishnu Sanjaybhai Vanjara": {
+        "status": "Absent",
+        "time": null
+      },
+      "Aakash Jaysukhbhai Vasoya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshar Mahendrabhai Andrapia": {
+        "status": "Absent",
+        "time": null
+      },
+      "Hiten Dineshbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jenil Bhaveshbhai Paghadar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Krunalbhai Aashokbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Neelkanth Jigneshkumar Jani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Pranav Yogeshbhai Vekriya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Ronit Rajendrakumar Dabgar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshay Bhaveshbhai Shingala": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mehulbhai Babubhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nitinbhai Prakashabhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bhadresh Dineshbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Poojan Sunilbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Ridham Vinodbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Shlok Anilbhai Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tejas Bhaveshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vansh Ramanbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vatsal Rameshbhai Mania": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharmesh Ghanshyambhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parthiv Narendrabhai Rupaani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rudra Pankaj Rathod": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tanmay Vipulbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Japan Sanjaybhai Suhagiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Manav Sureshbhai Harsora": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mayur Sanjaybhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Om Sanjay Bhai Vekariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Yagnesh Mukeshbhai Pithadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Priyansh Nareshbhai Capadia": {
+        "status": "Absent",
+        "time": null
+      },
+      "Samarth Hiteshbhai Ghevariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vyom Pankajbhai Rathod": {
+        "status": "Absent",
+        "time": null
+      },
+      "Deep Vipulbhai Sankhat": {
+        "status": "Absent",
+        "time": null
+      },
+      "Manthanbhai Sathishbhai Pandya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mayur Rajeshbhai Jinjuvadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vedant Ashvinabhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dhruv Mukeshbhai Dbaghar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parshva Ashvinabhai Soni": {
+        "status": "Present",
+        "time": ""
+      },
+      "Vanshbhai Nikunjabhai Kotak": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nirav Santoshbhai Bhure": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bhautik Gunvantbhai Ranpariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Himmatsinh Pravinsinh Vaghela": {
+        "status": "Absent",
+        "time": null
+      },
+      "Kandarp Dipeshbhai M": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parth Vinodkumar Ratnani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jambukiya Keval B.": {
+        "status": "Absent",
+        "time": null
+      },
+      "Darshil Shivaji Nehte": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dhruv Janakkumar Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharm Pipilya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rajatabhai Mahendrabhai Sawaliya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishwajit Dineshbhai Parmar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Prem Tusharkumar Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "NaN": {
+        "status": "Absent",
+        "time": null
+      }
+    },
+    "id": "4197e2a4-2a15-42ea-b918-ea8ddfe94a1f"
+  },
+  "2da47a66-bbac-4d61-a4b2-6a025b2171c2": {
+    "date": "2026-01-24",
+    "start_time": "23:15",
+    "end_time": "23:19",
+    "status": "ENDED",
+    "created_at": "2026-01-24 23:14:36",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jaimin Jayntibhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Mansukhbhai Goti": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vasu Sanjaybhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishalbhai Babhubhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Darshan Ashokbhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jaimin Rajnikant Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Khushal Jagadishbhai Vala": {
+        "status": "Absent",
+        "time": null
+      },
+      "Meet Vipulbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jainish Vipulbhai Chodavadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jaydip Dipakbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshar Bharatbhai Brahmbhatt": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Ramanbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Vipulbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mehul Arvindbhai Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nilkanth Hiteshabhai Vasoya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nirav Pradipbhai Rao": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tejash Ashvinbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Sankalp Samitkumar Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Janmesh Devidasbhai Pandav": {
+        "status": "Absent",
+        "time": null
+      },
+      "Urvish Manojakumar Mewada": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rushik Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Smit Rabindrabhai Pate": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bharav Sathishbhai Pandya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Fenil Sendhabhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Manojbhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharm Brijeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Harikrushnasinh Ajitsinh Mahida": {
+        "status": "Absent",
+        "time": null
+      },
+      "Saumya Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Shubham Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Siddh Mukeshbhai Ranpariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Smit Hiteshbhai Sharma": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vraj Pravinbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Abhishek Motirambhai Muke": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rishi Umeshkumar Brahmabhatta": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishnu Sanjaybhai Vanjara": {
+        "status": "Absent",
+        "time": null
+      },
+      "Aakash Jaysukhbhai Vasoya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshar Mahendrabhai Andrapia": {
+        "status": "Absent",
+        "time": null
+      },
+      "Hiten Dineshbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jenil Bhaveshbhai Paghadar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Krunalbhai Aashokbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Neelkanth Jigneshkumar Jani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Pranav Yogeshbhai Vekriya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Ronit Rajendrakumar Dabgar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshay Bhaveshbhai Shingala": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mehulbhai Babubhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nitinbhai Prakashabhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bhadresh Dineshbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Poojan Sunilbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Ridham Vinodbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Shlok Anilbhai Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tejas Bhaveshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vansh Ramanbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vatsal Rameshbhai Mania": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharmesh Ghanshyambhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parthiv Narendrabhai Rupaani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rudra Pankaj Rathod": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tanmay Vipulbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Japan Sanjaybhai Suhagiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Manav Sureshbhai Harsora": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mayur Sanjaybhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Om Sanjay Bhai Vekariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Yagnesh Mukeshbhai Pithadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Priyansh Nareshbhai Capadia": {
+        "status": "Absent",
+        "time": null
+      },
+      "Samarth Hiteshbhai Ghevariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vyom Pankajbhai Rathod": {
+        "status": "Absent",
+        "time": null
+      },
+      "Deep Vipulbhai Sankhat": {
+        "status": "Absent",
+        "time": null
+      },
+      "Manthanbhai Sathishbhai Pandya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mayur Rajeshbhai Jinjuvadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vedant Ashvinabhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dhruv Mukeshbhai Dbaghar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parshva Ashvinabhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vanshbhai Nikunjabhai Kotak": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nirav Santoshbhai Bhure": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bhautik Gunvantbhai Ranpariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Himmatsinh Pravinsinh Vaghela": {
+        "status": "Absent",
+        "time": null
+      },
+      "Kandarp Dipeshbhai M": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parth Vinodkumar Ratnani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jambukiya Keval B.": {
+        "status": "Absent",
+        "time": null
+      },
+      "Darshil Shivaji Nehte": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dhruv Janakkumar Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharm Pipilya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rajatabhai Mahendrabhai Sawaliya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishwajit Dineshbhai Parmar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Prem Tusharkumar Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "NaN": {
+        "status": "Absent",
+        "time": null
+      }
+    },
+    "id": "2da47a66-bbac-4d61-a4b2-6a025b2171c2"
+  },
+  "0f1be17b-a0c0-4d9a-9d47-6cf61d251d7f": {
+    "date": "2026-01-25",
+    "start_time": "13:49",
+    "end_time": "13:54",
+    "status": "ENDED",
+    "created_at": "2026-01-25 13:48:52",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jaimin Jayntibhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Mansukhbhai Goti": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vasu Sanjaybhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishalbhai Babhubhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Darshan Ashokbhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jaimin Rajnikant Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Khushal Jagadishbhai Vala": {
+        "status": "Absent",
+        "time": null
+      },
+      "Meet Vipulbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jainish Vipulbhai Chodavadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jaydip Dipakbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshar Bharatbhai Brahmbhatt": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Ramanbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Vipulbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mehul Arvindbhai Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nilkanth Hiteshabhai Vasoya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nirav Pradipbhai Rao": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tejash Ashvinbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Sankalp Samitkumar Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Janmesh Devidasbhai Pandav": {
+        "status": "Absent",
+        "time": null
+      },
+      "Urvish Manojakumar Mewada": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rushik Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Smit Rabindrabhai Pate": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bharav Sathishbhai Pandya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Fenil Sendhabhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Manojbhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharm Brijeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Harikrushnasinh Ajitsinh Mahida": {
+        "status": "Absent",
+        "time": null
+      },
+      "Saumya Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Shubham Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Siddh Mukeshbhai Ranpariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Smit Hiteshbhai Sharma": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vraj Pravinbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Abhishek Motirambhai Muke": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rishi Umeshkumar Brahmabhatta": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishnu Sanjaybhai Vanjara": {
+        "status": "Absent",
+        "time": null
+      },
+      "Aakash Jaysukhbhai Vasoya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshar Mahendrabhai Andrapia": {
+        "status": "Absent",
+        "time": null
+      },
+      "Hiten Dineshbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jenil Bhaveshbhai Paghadar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Krunalbhai Aashokbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Neelkanth Jigneshkumar Jani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Pranav Yogeshbhai Vekriya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Ronit Rajendrakumar Dabgar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshay Bhaveshbhai Shingala": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mehulbhai Babubhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nitinbhai Prakashabhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bhadresh Dineshbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Poojan Sunilbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Ridham Vinodbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Shlok Anilbhai Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tejas Bhaveshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vansh Ramanbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vatsal Rameshbhai Mania": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharmesh Ghanshyambhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parthiv Narendrabhai Rupaani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rudra Pankaj Rathod": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tanmay Vipulbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Japan Sanjaybhai Suhagiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Manav Sureshbhai Harsora": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mayur Sanjaybhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Om Sanjay Bhai Vekariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Yagnesh Mukeshbhai Pithadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Priyansh Nareshbhai Capadia": {
+        "status": "Absent",
+        "time": null
+      },
+      "Samarth Hiteshbhai Ghevariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vyom Pankajbhai Rathod": {
+        "status": "Absent",
+        "time": null
+      },
+      "Deep Vipulbhai Sankhat": {
+        "status": "Absent",
+        "time": null
+      },
+      "Manthanbhai Sathishbhai Pandya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mayur Rajeshbhai Jinjuvadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vedant Ashvinabhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dhruv Mukeshbhai Dbaghar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parshva Ashvinabhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vanshbhai Nikunjabhai Kotak": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nirav Santoshbhai Bhure": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bhautik Gunvantbhai Ranpariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Himmatsinh Pravinsinh Vaghela": {
+        "status": "Absent",
+        "time": null
+      },
+      "Kandarp Dipeshbhai M": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parth Vinodkumar Ratnani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jambukiya Keval B.": {
+        "status": "Absent",
+        "time": null
+      },
+      "Darshil Shivaji Nehte": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dhruv Janakkumar Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharm Pipilya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rajatabhai Mahendrabhai Sawaliya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishwajit Dineshbhai Parmar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Prem Tusharkumar Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "NaN": {
+        "status": "Absent",
+        "time": null
+      }
+    },
+    "id": "0f1be17b-a0c0-4d9a-9d47-6cf61d251d7f"
+  },
+  "dedc1486-d067-4fe0-b454-e4e02d138b67": {
+    "date": "2026-01-25",
+    "start_time": "20:14",
+    "end_time": "20:16",
+    "status": "ENDED",
+    "created_at": "2026-01-25 20:13:40",
+    "attendance": {},
+    "id": "dedc1486-d067-4fe0-b454-e4e02d138b67"
+  },
+  "8ece1f2f-5de0-4a2d-a3c1-109f586bdb2f": {
+    "date": "2026-01-25",
+    "start_time": "20:42",
+    "end_time": "20:43",
+    "status": "ENDED",
+    "created_at": "2026-01-25 20:41:15",
+    "attendance": {},
+    "id": "8ece1f2f-5de0-4a2d-a3c1-109f586bdb2f"
+  },
+  "a935de9d-9774-400c-8af3-6f225fd3bb9e": {
+    "date": "2026-01-25",
+    "start_time": "20:59",
+    "end_time": "21:00",
+    "status": "ENDED",
+    "created_at": "2026-01-25 20:58:41",
+    "attendance": {
+      "Dhruval Bipinbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jaimin Jayntibhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Mansukhbhai Goti": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vasu Sanjaybhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishalbhai Babhubhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Darshan Ashokbhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jaimin Rajnikant Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Khushal Jagadishbhai Vala": {
+        "status": "Absent",
+        "time": null
+      },
+      "Meet Vipulbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jainish Vipulbhai Chodavadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jaydip Dipakbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshar Bharatbhai Brahmbhatt": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Ramanbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Vipulbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mehul Arvindbhai Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nilkanth Hiteshabhai Vasoya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nirav Pradipbhai Rao": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tejash Ashvinbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Sankalp Samitkumar Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Janmesh Devidasbhai Pandav": {
+        "status": "Absent",
+        "time": null
+      },
+      "Urvish Manojakumar Mewada": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rushik Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Smit Rabindrabhai Pate": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bharav Sathishbhai Pandya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Fenil Sendhabhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jay Manojbhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharm Brijeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Harikrushnasinh Ajitsinh Mahida": {
+        "status": "Absent",
+        "time": null
+      },
+      "Saumya Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Shubham Rakeshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Siddh Mukeshbhai Ranpariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Smit Hiteshbhai Sharma": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vraj Pravinbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Abhishek Motirambhai Muke": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rishi Umeshkumar Brahmabhatta": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishnu Sanjaybhai Vanjara": {
+        "status": "Absent",
+        "time": null
+      },
+      "Aakash Jaysukhbhai Vasoya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshar Mahendrabhai Andrapia": {
+        "status": "Absent",
+        "time": null
+      },
+      "Hiten Dineshbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jenil Bhaveshbhai Paghadar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Krunalbhai Aashokbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Neelkanth Jigneshkumar Jani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Pranav Yogeshbhai Vekriya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Ronit Rajendrakumar Dabgar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Akshay Bhaveshbhai Shingala": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mehulbhai Babubhai Rajani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nitinbhai Prakashabhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bhadresh Dineshbhai Solanki": {
+        "status": "Absent",
+        "time": null
+      },
+      "Poojan Sunilbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Ridham Vinodbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Shlok Anilbhai Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tejas Bhaveshbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vansh Ramanbhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vatsal Rameshbhai Mania": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharmesh Ghanshyambhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parthiv Narendrabhai Rupaani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Rudra Pankaj Rathod": {
+        "status": "Absent",
+        "time": null
+      },
+      "Tanmay Vipulbhai Prajapati": {
+        "status": "Absent",
+        "time": null
+      },
+      "Japan Sanjaybhai Suhagiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Manav Sureshbhai Harsora": {
+        "status": "Present",
+        "time": ""
+      },
+      "Mayur Sanjaybhai Patel": {
+        "status": "Absent",
+        "time": null
+      },
+      "Om Sanjay Bhai Vekariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Yagnesh Mukeshbhai Pithadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Priyansh Nareshbhai Capadia": {
+        "status": "Absent",
+        "time": null
+      },
+      "Samarth Hiteshbhai Ghevariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vyom Pankajbhai Rathod": {
+        "status": "Absent",
+        "time": null
+      },
+      "Deep Vipulbhai Sankhat": {
+        "status": "Absent",
+        "time": null
+      },
+      "Manthanbhai Sathishbhai Pandya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Mayur Rajeshbhai Jinjuvadiya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vedant Ashvinabhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dhruv Mukeshbhai Dbaghar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parshva Ashvinabhai Soni": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vanshbhai Nikunjabhai Kotak": {
+        "status": "Absent",
+        "time": null
+      },
+      "Nirav Santoshbhai Bhure": {
+        "status": "Absent",
+        "time": null
+      },
+      "Bhautik Gunvantbhai Ranpariya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Himmatsinh Pravinsinh Vaghela": {
+        "status": "Absent",
+        "time": null
+      },
+      "Kandarp Dipeshbhai M": {
+        "status": "Absent",
+        "time": null
+      },
+      "Parth Vinodkumar Ratnani": {
+        "status": "Absent",
+        "time": null
+      },
+      "Jambukiya Keval B.": {
+        "status": "Absent",
+        "time": null
+      },
+      "Darshil Shivaji Nehte": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dhruv Janakkumar Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "Dharm Pipilya": {
+        "status": "Present",
+        "time": ""
+      },
+      "Rajatabhai Mahendrabhai Sawaliya": {
+        "status": "Absent",
+        "time": null
+      },
+      "Vishwajit Dineshbhai Parmar": {
+        "status": "Absent",
+        "time": null
+      },
+      "Prem Tusharkumar Barot": {
+        "status": "Absent",
+        "time": null
+      },
+      "NaN": {
+        "status": "Absent",
+        "time": null
+      }
+    }
+  }
+}

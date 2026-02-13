@@ -1,0 +1,233 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h2>Member Details</h2>
+
+<button type="button" id="edit-btn" style="background:#4285F4; color:white; padding:10px 20px; border:none; border-radius:4px; cursor:pointer; font-size:16px; margin-bottom:20px;">
+  ✏️ Edit
+</button>
+
+<form method="POST" id="member-form">
+
+  <p><b>Name:</b> {{ member["Yuvak Name"] }}</p>
+
+  <label>Type:</label><br>
+  <select name="Type" disabled class="form-field">
+    <option value="Yuvak" {% if member.Type|lower == "yuvak" %}selected{% endif %}>Yuvak</option>
+    <option value="Sampark Karyakar" {% if member.Type|lower == "sampark karyakar" %}selected{% endif %}>Sampark Karyakar</option>
+    <option value="Karyakar" {% if member.Type|lower == "karyakar" %}selected{% endif %}>Karyakar</option>
+    <option value="Sanchalak" {% if member.Type|lower == "sanchalak" %}selected{% endif %}>Sanchalak</option>
+  </select>
+
+  <br><br>
+
+  <label>Category:</label><br>
+  <input type="text" name="Category" value="{{ member.get('Category','') }}" disabled class="form-field">
+
+  <br><br>
+
+  <label>Yuvak Phone:</label><br>
+  <input type="text" name="Yuvak Phone No." value="{{ member.get('Yuvak Phone No.','') }}" disabled class="form-field">
+
+  <br><br>
+
+  <label>Family Phone:</label><br>
+  <input type="text" name="Family Phone No." value="{{ member.get('Family Phone No.','') }}" disabled class="form-field">
+
+  <br><br>
+
+  <label>Address:</label><br>
+  <textarea name="Yuvak Address" disabled class="form-field">{{ member.get("Yuvak Address","") }}</textarea>
+
+  <br><br>
+
+  <label>Date of Birth:</label><br>
+  <input type="datetime-local" name="DOB" value="{{ member.get('DOB','') }}" disabled class="form-field">
+
+  <br><br>
+
+  <!-- Status Selector: Job or College -->
+  <label>Status:</label><br>
+  <select id="status-select" name="Status" disabled class="form-field">
+    <option value="">-- Select --</option>
+    <option value="Job" {% if member.get('Status') == 'Job' %}selected{% endif %}>Job</option>
+    <option value="College" {% if member.get('Status') == 'College' %}selected{% endif %}>College</option>
+  </select>
+
+  <br><br>
+
+  <!-- JOB SECTION -->
+  <div id="job-section" style="display:none;">
+    <label>Job:</label><br>
+    <input type="text" name="Job" value="{{ member.get('Job','') }}" disabled class="form-field">
+
+    <br><br>
+
+    <label>Job Timing:</label><br>
+    <input type="text" name="Job Timing" placeholder="e.g., 9:00 AM - 6:00 PM" value="{{ member.get('Job Timing','') }}" disabled class="form-field">
+
+    <br><br>
+
+    <label>Job Holiday (Day of week):</label><br>
+    <select name="Job Holiday" disabled class="form-field">
+      <option value="">-- Select --</option>
+      <option value="Monday" {% if member.get('Job Holiday') == 'Monday' %}selected{% endif %}>Monday</option>
+      <option value="Tuesday" {% if member.get('Job Holiday') == 'Tuesday' %}selected{% endif %}>Tuesday</option>
+      <option value="Wednesday" {% if member.get('Job Holiday') == 'Wednesday' %}selected{% endif %}>Wednesday</option>
+      <option value="Thursday" {% if member.get('Job Holiday') == 'Thursday' %}selected{% endif %}>Thursday</option>
+      <option value="Friday" {% if member.get('Job Holiday') == 'Friday' %}selected{% endif %}>Friday</option>
+      <option value="Saturday" {% if member.get('Job Holiday') == 'Saturday' %}selected{% endif %}>Saturday</option>
+      <option value="Sunday" {% if member.get('Job Holiday') == 'Sunday' %}selected{% endif %}>Sunday</option>
+    </select>
+  </div>
+
+  <!-- COLLEGE SECTION -->
+  <div id="college-section" style="display:none;">
+    <label>Study:</label><br>
+    <input type="text" name="Study" value="{{ member.get('Study','') }}" disabled class="form-field">
+
+    <br><br>
+
+    <label>College Timing:</label><br>
+    <input type="text" name="College Timing" placeholder="e.g., 9:00 AM - 5:00 PM" value="{{ member.get('College Timing','') }}" disabled class="form-field">
+
+    <br><br>
+
+    <label>College Holiday (Day of week):</label><br>
+    <select name="College Holiday" disabled class="form-field">
+      <option value="">-- Select --</option>
+      <option value="Monday" {% if member.get('College Holiday') == 'Monday' %}selected{% endif %}>Monday</option>
+      <option value="Tuesday" {% if member.get('College Holiday') == 'Tuesday' %}selected{% endif %}>Tuesday</option>
+      <option value="Wednesday" {% if member.get('College Holiday') == 'Wednesday' %}selected{% endif %}>Wednesday</option>
+      <option value="Thursday" {% if member.get('College Holiday') == 'Thursday' %}selected{% endif %}>Thursday</option>
+      <option value="Friday" {% if member.get('College Holiday') == 'Friday' %}selected{% endif %}>Friday</option>
+      <option value="Saturday" {% if member.get('College Holiday') == 'Saturday' %}selected{% endif %}>Saturday</option>
+      <option value="Sunday" {% if member.get('College Holiday') == 'Sunday' %}selected{% endif %}>Sunday</option>
+    </select>
+  </div>
+
+  <script>
+    function toggleStatusFields() {
+      const status = document.getElementById('status-select').value;
+      const jobSection = document.getElementById('job-section');
+      const collegeSection = document.getElementById('college-section');
+      
+      if (status === 'Job') {
+        jobSection.style.display = 'block';
+        collegeSection.style.display = 'none';
+      } else if (status === 'College') {
+        jobSection.style.display = 'none';
+        collegeSection.style.display = 'block';
+      } else {
+        jobSection.style.display = 'none';
+        collegeSection.style.display = 'none';
+      }
+    }
+    
+    // Initialize on page load - auto-detect based on member data
+    document.addEventListener('DOMContentLoaded', function() {
+      const statusSelect = document.getElementById('status-select');
+      const currentStatus = statusSelect.value;
+      
+      // If no status selected, try to auto-detect
+      if (!currentStatus) {
+        const study = "{{ member.get('Study','') }}".trim();
+        const job = "{{ member.get('Job','') }}".trim();
+        
+        if (job && job !== 'nan' && job !== '-' && job !== '') {
+          statusSelect.value = 'Job';
+        } else if (study && study !== 'nan' && study !== '-' && study !== '') {
+          statusSelect.value = 'College';
+        }
+      }
+      
+      toggleStatusFields();
+    });
+    
+    document.getElementById('status-select').addEventListener('change', toggleStatusFields);
+  </script>
+
+  <br><br>
+
+  <label>Remark:</label><br>
+  <textarea name="Remark" disabled class="form-field">{{ member.get("Remark","") }}</textarea>
+
+  <br><br>
+
+  {% if member.Type|lower == "yuvak" %}
+
+    <hr>
+    <h3>Assign Sampark / Karyakar</h3>
+
+    {% if assigned_sampark %}
+      <p><b>Currently Assigned:</b> {{ assigned_sampark }}</p>
+    {% endif %}
+
+    <label>Choose Sampark / Karyakar (suggested shown with green dot):</label><br>
+    <select name="sampark_choice" disabled class="form-field">
+      <option value="">-- Select --</option>
+      {% for s in suggested_karyakar %}
+        <option value="{{ s.name }}" {% if assigned_sampark == s.name %}selected{% endif %}>🟢 {{ s.name }}</option>
+      {% endfor %}
+      {% for k in all_karyakar %}
+        {% if k not in suggested_names %}
+          <option value="{{ k }}" {% if assigned_sampark == k %}selected{% endif %}>{{ k }}</option>
+        {% endif %}
+      {% endfor %}
+    </select>
+
+    <br><br>
+
+  {% endif %}
+
+  <div id="button-group" style="margin-top:20px;">
+    <button type="submit" id="save-btn" style="background:#34A853; color:white; padding:10px 20px; border:none; border-radius:4px; cursor:pointer; display:none;">
+      ✓ Save Changes
+    </button>
+    <button type="button" id="cancel-btn" style="background:#999; color:white; padding:10px 20px; border:none; border-radius:4px; cursor:pointer; margin-left:10px; display:none;">
+      ✕ Cancel
+    </button>
+  </div>
+
+</form>
+
+<script>
+  const editBtn = document.getElementById('edit-btn');
+  const saveBtn = document.getElementById('save-btn');
+  const cancelBtn = document.getElementById('cancel-btn');
+  const memberForm = document.getElementById('member-form');
+  const formFields = document.querySelectorAll('.form-field');
+
+  // Edit button: enable all fields
+  editBtn.addEventListener('click', function() {
+    formFields.forEach(field => field.disabled = false);
+    editBtn.style.display = 'none';
+    saveBtn.style.display = 'inline-block';
+    cancelBtn.style.display = 'inline-block';
+  });
+
+  // Cancel button: disable all fields and revert
+  cancelBtn.addEventListener('click', function() {
+    formFields.forEach(field => field.disabled = true);
+    editBtn.style.display = 'inline-block';
+    saveBtn.style.display = 'none';
+    cancelBtn.style.display = 'none';
+    // Reload the page to revert changes
+    location.reload();
+  });
+</script>
+
+{% if assigned_list %}
+  <hr>
+  <h3>Assigned Yuvaks</h3>
+  <div>
+    {% for y in assigned_list %}
+      <div style="padding:6px 0;">- <a href="{{ url_for('member_detail', name=y) }}">{{ y }}</a></div>
+    {% endfor %}
+  </div>
+{% endif %}
+
+<br>
+<a href="/members">← Back to Members</a>
+
+{% endblock %}
